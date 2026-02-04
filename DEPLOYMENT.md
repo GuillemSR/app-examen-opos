@@ -76,26 +76,84 @@ Después de unos minutos, tu aplicación estará disponible en:
 https://TU_USUARIO.github.io/NOMBRE_REPO/
 ```
 
-## Actualizaciones futuras
+## Entendiendo las Ramas Git
 
-Cada vez que hagas cambios en el código:
+### Rama `main` (tu rama de trabajo)
+- Contiene todo el código fuente del proyecto
+- **Aquí haces TODOS los cambios** (editar código, añadir exámenes, etc.)
+- Aquí haces commits y push
+- Es tu rama principal de desarrollo
+
+### Rama `gh-pages` (automática - NO TOCAR)
+- **Creada automáticamente** por `npm run deploy`
+- Solo contiene los archivos compilados (contenido de `dist/`)
+- GitHub Pages sirve la aplicación desde aquí
+- **NUNCA edites esta rama manualmente**
+- Se actualiza automáticamente cada vez que ejecutas `npm run deploy`
+
+### Flujo Visual
+
+```
+main (código fuente)
+  ↓
+  git commit & push
+  ↓
+  npm run deploy (desde exam-app/)
+  ↓
+gh-pages (build compilado)
+  ↓
+GitHub Pages (https://usuario.github.io/repo/)
+```
+
+### Comandos útiles
 
 ```bash
-# 1. Añadir los cambios
-git add .
+# Ver en qué rama estás
+git branch
 
-# 2. Hacer commit
-git commit -m "Descripción de los cambios"
+# Ver cambios pendientes
+git status
 
-# 3. Subir a GitHub
-git push
+# Cambiar a main (si por alguna razón estás en otra rama)
+git checkout main
+```
 
-# 4. Desplegar de nuevo (desde exam-app/)
+## Actualizaciones futuras
+
+### Opción 1: Solo deploy rápido (cambios en la app)
+
+Si solo modificaste código de la aplicación y quieres verlo online rápido:
+
+```bash
 cd exam-app
 npm run deploy
 ```
 
-## Añadir nuevos exámenes
+Esto despliega directamente a GitHub Pages sin hacer commit a Git.
+
+### Opción 2: Cambios + Guardar en Git (RECOMENDADO)
+
+Para guardar los cambios en el repositorio y desplegar:
+
+```bash
+# 1. Verificar que estás en main
+git branch
+
+# 2. Añadir los cambios
+git add .
+
+# 3. Hacer commit
+git commit -m "Descripción de los cambios"
+
+# 4. Subir a GitHub (rama main)
+git push
+
+# 5. Desplegar a GitHub Pages
+cd exam-app
+npm run deploy
+```
+
+### Opción 3: Añadir nuevos exámenes
 
 Cuando añadas nuevos archivos JSON de exámenes:
 
@@ -114,6 +172,16 @@ git push
 cd exam-app
 npm run deploy
 ```
+
+### Resumen Rápido
+
+| Acción | Comandos |
+|--------|----------|
+| Solo deploy | `cd exam-app && npm run deploy` |
+| Cambios + deploy | `git add . && git commit -m "msg" && git push && cd exam-app && npm run deploy` |
+| Nuevos exámenes | `node process-exams.js` + commit + deploy |
+
+**IMPORTANTE**: Los cambios en GitHub Pages tardan 1-2 minutos en verse. Usa Ctrl+F5 para refrescar sin caché.
 
 ## Solución de problemas
 

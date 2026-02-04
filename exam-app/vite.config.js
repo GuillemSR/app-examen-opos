@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => {
-  // En desarrollo usar '/', en producción usar '/exam-app/' (o el nombre de tu repo)
-  const base = command === 'serve' ? '/' : '/exam-app/';
+  // En desarrollo usar '/', en producción usar el nombre del repo
+  const base = command === 'serve' ? '/' : '/app-examen-opos/';
   
   return {
     plugins: [react()],
