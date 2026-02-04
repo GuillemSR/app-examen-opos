@@ -1,7 +1,13 @@
 // Cargar y mezclar preguntas aleatoriamente
 export const loadQuestions = async () => {
   try {
-    const response = await fetch('/exams.json');
+    // Usar BASE_URL para que funcione en desarrollo y producción
+    const response = await fetch(`${import.meta.env.BASE_URL}exams.json`);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
     const data = await response.json();
     return data.questions;
   } catch (error) {
