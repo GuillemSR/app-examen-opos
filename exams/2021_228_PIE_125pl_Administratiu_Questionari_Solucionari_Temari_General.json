@@ -1,0 +1,852 @@
+{
+  "metadata": {
+    "model": 1
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Segons la Carta Municipal, NO és una atribució de l'alcalde/essa",
+      "answers": {
+        "a": "Representar l'Ajuntament.",
+        "b": "Convocar i presidir les sessions del Plenari del Consell Municipal i de la Comissió de Govern.",
+        "c": "Organitzar l'administració municipal executiva i nomenar els tinents/tes d'alcalde/essa i els regidors/ores de districte.",
+        "d": "Exercir la iniciativa per alterar el terme municipal."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Quants/tes regidors/ores integren el Plenari de la corporació municipal de l'Ajuntament de Barcelona?",
+      "answers": {
+        "a": "35",
+        "b": "55",
+        "c": "41",
+        "d": "30, més 1 per cada districte municipal"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 3,
+      "question": "D’acord amb l’art. 14 de la Carta Municipal, com s’escullen/nomenen els/les Tinents d’alcalde?",
+      "answers": {
+        "a": "Els/les tinents d’alcalde són nomenats per l’alcalde/essa d’entre els regidors/ores.",
+        "b": "Els/les tinents d’alcalde són escollits per sufragi directe i llistes obertes per part dels/de les electors de cada districte.",
+        "c": "Els/les tinents d’alcalde són nomenats per la Comissió de Govern, entre les persones proposades per l’alcalde/essa, i el seu nomenament atendrà a criteris de competència professional i experiència.",
+        "d": "Els/les tinent d’alcalde s’escullen pel Ple en la sessió de constitució de la Corporació entre tots els regidors/ores que encapçalin les corresponents llistes electorals."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Quina Àrea municipal correspon a la Primera Tinença d'Alcaldia de l'Ajuntament de Barcelona?",
+      "answers": {
+        "a": "Àrea d'Economia, Treball, Competitivitat i Hisenda.",
+        "b": "Àrea d'Ecologia, Urbanisme, Infraestructures i Mobilitat.",
+        "c": "Àrea de Drets Socials, Justícia Global, Feminismes i LGTBI.",
+        "d": "Àrea de Prevenció i Seguretat."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Segons la Carta Municipal, l'òrgan de màxima representació política de la ciutadania en el govern de la ciutat que és format pels regidors/ores i és presidit per l'alcalde/essa és:",
+      "answers": {
+        "a": "El Consell Municipal.",
+        "b": "La Comissió de Govern.",
+        "c": "La Junta de Portaveus.",
+        "d": "Els consells de districte."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Segons la Carta Municipal, una de les atribucions de l'lcalde/essa que NO es pot delegar és:",
+      "answers": {
+        "a": "Representar l'Ajuntament.",
+        "b": "Convocar i presidir les sessions del Plenari del Consell Municipal i de la Comissió de Govern.",
+        "c": "Dictar decrets i bans i vetllar perquè es compleixin.",
+        "d": "Exercir accions judicials i administratives per a la defensa jurídica de la corporació."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Amb quina periodicitat es reuneix en sessió ordinària el Plenari Municipal?",
+      "answers": {
+        "a": "Una vegada al trimestre; la resta de reunions són extraordinàries.",
+        "b": "Cada dos mesos, sempre que ho demani la meitat més un dels regidors/ores.",
+        "c": "Només els mesos parell.",
+        "d": "Mensualment."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 8,
+      "question": "La promoció de l’activitat física a la ciutat de Barcelona com a hàbit saludable per a la població és una línia d’actuació bàsica impulsada des de la gerència de l’àrea de",
+      "answers": {
+        "a": "Economia, Treball, Competitivitat i Hisenda",
+        "b": "Ecologia, Urbanisme, Infraestructures i Mobilitat",
+        "c": "Cultura, Educació, Ciència i Comunitat",
+        "d": "Agenda 2030, Transició Digital, Esports i Coordinació Territorial i Metropolitana"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Qui té l’atribució d’organitzar l’administració municipal executiva, segons la Carta Municipal?",
+      "answers": {
+        "a": "El/la gerent municipal.",
+        "b": "L’alcalde/essa.",
+        "c": "El/la primer/a tinent/a d’alcaldia.",
+        "d": "Agenda 2030, Transició Digital, Esports i Coordinació Territorial i Metropolitana."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Les gerències d’Àrea o gerències sectorials formen part de l’estructura executiva de l’Ajuntament de Barcelona. Assenyala quina de les següents gerències NO forma part de les gerències sectorials:",
+      "answers": {
+        "a": "Gerència de Pressupostos i Hisenda.",
+        "b": "Gerència del districte de les Corts.",
+        "c": "Gerència de l’Arquitecte/a en Cap.",
+        "d": "Gerència d’Habitatge."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 11,
+      "question": "L'Institut Municipal de Persones amb Discapacitat de Barcelona és:",
+      "answers": {
+        "a": "Un consorci.",
+        "b": "Una fundació pública.",
+        "c": "Una societat mercantil.",
+        "d": "Un organisme autònom."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Tal com estableix la Carta Municipal, correspon al president o presidenta del Consell de Districte:",
+      "answers": {
+        "a": "Aprovar el Programa d'actuació del districte i sotmetre’l al Consell Municipal.",
+        "b": "Elaborar estudis sobre les necessitats del districte.",
+        "c": "Proposar a l'òrgan municipal competent l'aprovació d'instruments d'ordenació urbanística que afectin l'àmbit territorial del districte.",
+        "d": "Representar l'Ajuntament i el districte en la demarcació del districte, sens perjudici de la funció representativa general de l'alcalde o alcaldessa."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Segons la Carta Municipal, correspon al Consell de Districte:",
+      "answers": {
+        "a": "Aprovar el Codi ètic d'actuació de tot el personal al servei del municipi",
+        "b": "Aprovar el Programa d'actuació del districte i sotmetre’l al Consell Municipal.",
+        "c": "Aprovar l'escut, la bandera i els altres símbols distintius de la ciutat.",
+        "d": "Aprovar i modificar el Reglament orgànic que regula la composició i l'elecció dels consells de districte."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Quin dels següents ens municipals és una entitat pública empresarial?",
+      "answers": {
+        "a": "Institut Municipal de Parcs i Jardins.",
+        "b": "Barcelona Cicle de l'Aigua SA (BCASA)",
+        "c": "Cementiris de Barcelona",
+        "d": "Museu Picasso"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 15,
+      "question": "D’acord l’art. 7 de les Normes reguladores del funcionament dels districtes, els districtes constitueixen una estructura orgànica integrada pels òrgans següents:",
+      "answers": {
+        "a": "El Consell del Districte, el/la President/a del Consell del Districte, el/la Regidor/a del Districte, la Comissió de Govern del Districte, i les comissions i òrgans consultius i de participació previstes en dites Normes.",
+        "b": "El Consell del Districte, el/la President/a del Consell del Districte, el/la Regidor/a del Districte, el Ple de la Comissió de Govern de l’Ajuntament, i les comissions i òrgans consultius i de participació previstes en dites Normes.",
+        "c": "El Consell del Districte, el/la President/a del Consell del Districte, el/la Regidor/a del Districte, l’Alcalde/essa, i les comissions i òrgans consultius i de participació previstes en dites Normes.",
+        "d": "El Consell del Districte, el/la President/a del Consell del Districte, el/la Regidor/a del Districte, el/la Gerent del Districte, i les comissions i òrgans consultius i de participació previstes en dites Normes."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Segons els seus estatuts, el Consorci de les Biblioteques de Barcelona es configura com un ens local constituït per:",
+      "answers": {
+        "a": "L'Ajuntament de Barcelona i la Diputació de Barcelona.",
+        "b": "L'Ajuntament de Barcelona, la Generalitat i la Diputació de Barcelona.",
+        "c": "El Departament d'Ensenyament i la Diputació de Barcelona.",
+        "d": "L'Ajuntament de Barcelona i l'Institut de Cultura de Barcelona."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 17,
+      "question": "Quins municipis integren el Consorci del Besòs?",
+      "answers": {
+        "a": "Barcelona i Cerdanyola del Vallès.",
+        "b": "Barcelona, Sant Adrià de Besòs, Santa Coloma de Gramenet, Montcada i Reixac, i Badalona.",
+        "c": "Barcelona, Cerdanyola del Vallès i Sant Cugat del Vallès.",
+        "d": "Barcelona, Sant Adrià de Besòs, Santa Coloma de Gramenet, Montcada i Reixac, Badalona, Cerdanyola del Vallès i Ripollet."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Què és un consorci públic segons la Llei 40/2015, d'1 d'octubre, de règim jurídic del sector públic?",
+      "answers": {
+        "a": "Una entitat de dret públic, amb personalitat jurídica pròpia i diferenciada.",
+        "b": "Un ens creat per conveni.",
+        "c": "La unió temporal de dues o més administracions públiques, sense personalitat jurídica pròpia.",
+        "d": "Un ens de recaptació tributària dependent d'un ajuntament."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 19,
+      "question": "L'Ajuntament de Barcelona NO forma part del següent Consorci:",
+      "answers": {
+        "a": "Consorci de Biblioteques de Barcelona.",
+        "b": "Consorci Museu d'Art Contemporani de Barcelona.",
+        "c": "Consorci Museu de Ciències Naturals de Barcelona.",
+        "d": "Consorci d’Aïgues de Barcelona."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 20,
+      "question": "L’art. 1.2 de la Carta Municipal recull que la ciutat de Barcelona gaudeix d’un règim especial que legislativament està garantit per",
+      "answers": {
+        "a": "L’art. 22.1 de la Llei de bases de règim local.",
+        "b": "L’art. 124 de la Constitució espanyola.",
+        "c": "L’art. 89 de l’Estatut d’autonomia de Catalunya.",
+        "d": "L’art. 65 de l’Estatut bàsic de l’empleat públic."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 21,
+      "question": "L'escut oficial de la ciutat de Barcelona s'inspira en el de:",
+      "answers": {
+        "a": "Pere III el Cerimoniós.",
+        "b": "Jaume I.",
+        "c": "Alfons el Benigne.",
+        "d": "Carles II d'Anjou."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Segons la Carta Municipal, la ciutat de Barcelona ostenta els títols que té atorgats en atenció a la seva història i la seva tradició i, en concret:",
+      "answers": {
+        "a": "Ciutat de les persones.",
+        "b": "Ciutat Comtal.",
+        "c": "Ciutat educadora.",
+        "d": "Barcino, ciutat romana."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 23,
+      "question": "D’acord amb l’article 51 de la Carta Municipal, el personal professional de l'Ajuntament de Barcelona se selecciona i ordena en apliacació dels:",
+      "answers": {
+        "a": "Principis constitucionals d'igualtat, mèrit i eficàcia, i actua amb imparcialitat en el desenvolupament de les seves funcions.",
+        "b": "Principis constitucionals d'igualtat, mèrit i capacitat, i actua amb imparcialitat en el desenvolupament de les seves funcions.",
+        "c": "Principis constitucionals d'igualtat, mèrit i eficiència, i actua amb imparcialitat en el desenvolupament de les seves funcions.",
+        "d": "Principis constitucionals de celeritat, mèrit i capacitat, i actua amb imparcialitat en el desenvolupament de les seves funcions."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Les normes dictades per l'Ajuntament de Barcelona adopten les formes següents, segons la Carta Municipal:",
+      "answers": {
+        "a": "Reglaments, ordenances, anuncis, dictamens i bans.",
+        "b": "Reglaments, comunicacions, ordenances, decrets de la Comisió de Govern i decrets de l'Alcaldia.",
+        "c": "Reglaments, ordenances, decrets de la Comisió de Govern, decrets de l'Alcaldia i bans.",
+        "d": "Reglaments, ordenances, publicacions, circulars i bans."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 25,
+      "question": "L’art. 21.1 de la Carta Municipal recull que correspon al Consell Municipal acordar l’establiment de districtes, i també:",
+      "answers": {
+        "a": "Establir-ne el nombre i els límits territorials, l’organització i les funcions.",
+        "b": "Establir-ne els límits territorials, les funcions i la designació del/de la gerent de districte.",
+        "c": "Establir-ne les funcions, l’organització, i la designació del/la gerent i els/les consellers/eres tècnics/tècniques.",
+        "d": "Establir-ne les funcions, els límits territorials i la ubicació dels equipaments."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 26,
+      "question": "L’art. 10.1 de la Carta Municipal recull que el Consell Municipal és l’òrgan de màxima representació política de la ciutadania en el govern de la ciutat i està format per:",
+      "answers": {
+        "a": "Els/les tinents d’alcalde, l’alcalde/essa i el/la secretari/ària municipal.",
+        "b": "2/3 parts dels regidors/ores i presidit per l’alcalde/essa.",
+        "c": "Els/les regidors/ores i presidit per l’alcalde/essa.",
+        "d": "Els/les regidors/ores, el/la secretari/ària municipal i el/la gerent municipal."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 27,
+      "question": "D’acord amb l’art. 47 bis del RDL 5/2015, de 30 d'octubre, pel qual s'aprova el text refós de la Llei de l’estatut bàsic de l’empleat públic (en endavant TREBEP), la prestació del servei mitjançant teletreball:",
+      "answers": {
+        "a": "No requerirà d’autorització, serà compatible amb la modalitat presencial, tindrà caràcter voluntari i reversible excepte en supòsits excepcionals degudament justificats.",
+        "b": "Haurà de ser expressament autoritzada, serà compatible amb la modalitat presencial, tindrà caràcter voluntari i reversible excepte en supòsits excepcionals degudament justificats.",
+        "c": "Haurà de ser expressament autoritzada, serà compatible amb la modalitat presencial, tindrà caràcter voluntari i irreversible excepte en supòsits excepcionals degudament justificats.",
+        "d": "No requerirà d’autorització, serà compatible amb la modalitat presencial, tindrà caràcter obligatori i irreversible excepte en supòsits excepcionals degudament justificats."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Segons l’art. 96.1 del TREBEP, quina és la sanció, per raó de les faltes comeses, consistent en la penalització als efectes de carrera, promoció o mobilitat voluntària?",
+      "answers": {
+        "a": "Advertència.",
+        "b": "Demèrit.",
+        "c": "Trasllat forçós.",
+        "d": "Excedència forçosa."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Segons el TREBEP, quin dels següents drets individuals NO s’exerceix de manera col·lectiva per part dels empleats públics?",
+      "answers": {
+        "a": "Dret a la llibertat sindical.",
+        "b": "Dret a participar en la consecució dels objectius atribuïts a la unitat on presti els seus serveis i a ser informat pels seus superiors de les tasques a desenvolupar.",
+        "c": "Dret a l’exercici de la vaga amb la garantia del manteniment de serveis essencials de la comunitat.",
+        "d": "Dret al plantejament de conflictes col·lectius de treball, d’acord amb la legislació aplicable en cada cas."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 30,
+      "question": "D’acord amb el previst a l’art. 53 del TREBEP, són principis ètics dels empleats públics:",
+      "answers": {
+        "a": "Actuar d’acord amb els principis d’eficàcia, coordinació i delegació.",
+        "b": "Actuar d’acord amb els principis d’eficàcia, economia i eficiència.",
+        "c": "Actuar d’acord amb els principis de celeritat, bona fe i eficiència.",
+        "d": "Actuar d’acord amb els principis d’eficiència, economia i bona praxis."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Segons el TREBEP, quan es comença a comptar el termini de prescripció de les sancions?",
+      "answers": {
+        "a": "Des del cessament de la comissió de la falta quan es tracti de faltes continuades.",
+        "b": "Des de l’endemà de la resolució sancionadora.",
+        "c": "Des del moment que la falta s’hagi comès.",
+        "d": "Des de la fermesa de la resolució sancionadora."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Segons art. 40.2 del Decret 243/1995, en el procediment disciplinari ordinari el/la secretari/ària:",
+      "answers": {
+        "a": "Ha de ser un/a funcionari/ària pertanyent a un cos o escala de qualsevol grup.",
+        "b": "Ha de ser un/a funcionari/ària i pertanyent a un cos o escala d’igual grup que el de la persona inculpada.",
+        "c": "No cal que ostenti la condició de funcionari/ària, aquest requisit només s’aplica per a l’instructor/a.",
+        "d": "Ha de ser un funcionari/ària pertanyent a un cos o escala d’igual o superior grup que el de la persona inculpada."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Respecte a la promoció interna quina de les següents afirmacions NO és certa:",
+      "answers": {
+        "a": "Els/les funcionaris/àries han de tenir una antiguitat, almenys, d’un any de servei actiu al subgrup inferior.",
+        "b": "Els processos selectius han de garantir el compliment dels principis constitucionals d’igualtat, mèrit i capacitat.",
+        "c": "Els/les funcionaris/àries han de tenir una antiguitat, almenys, de dos anys de servei actiu al subgrup inferior.",
+        "d": "S’han de superar les proves selectives establertes a la convocatòria."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Quin és el termini de presentació de sol·licituds per participar en una convocatòria de concurs de mèrits intern per a la provisió d’un lloc de treball a l’Ajuntament de Barcelona?",
+      "answers": {
+        "a": "10 dies hàbils a comptar des de l’endemà de la publicació de la convocatòria a la Gaseta Municipal.",
+        "b": "15 dies naturals a comptar des de l’endemà de la publicació de la convocatòria a la Gaseta Municipal.",
+        "c": "15 dies hàbils a comptar des de l’endemà de la publicació de la convocatòria a la Gaseta Municipal.",
+        "d": "20 dies naturals a comptar des de l’endemà de la publicació de la convocatòria a la Gaseta Municipal."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Els requisits de participació exigits en una convocatòria de promoció interna de l’Ajuntament de Barcelona s’han de complir:",
+      "answers": {
+        "a": "Des de la data de realització del primer exercici de la fase d’oposició.",
+        "b": "A partir de la data de presa de possessió del nou lloc de treball.",
+        "c": "Des de la data de publicació dels resultats definitius del procés selectiu.",
+        "d": "El darrer dia del termini assenyalat per a la presentació de les instàncies de participació en el procés i s’han de mantenir fins a la presa de posessió."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 36,
+      "question": "El procediment de provisió consistent en l’apreciació discrecional per part de l’òrgan competent de la idoneïtat de les persones candidates en relació amb els requisits exigits per acomplir el lloc de treball és:",
+      "answers": {
+        "a": "Concurs de mèrits.",
+        "b": "Oposició lliure.",
+        "c": "Lliure designació.",
+        "d": "Promoció interna."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Assenyaleu la resposta correcta respecte com s’adquireix el grau personal:",
+      "answers": {
+        "a": "Per l’exercici d’un o més llocs del nivell corresponent durant 1 any continuat o 2 amb interrupció.",
+        "b": "Per l’exercici d’un o més llocs del nivell corresponent durant 3 anys continuats o 2 amb interrupció.",
+        "c": "Per l’exercici d’un o més llocs del nivell corresponent durant 1 any continuat o 3 amb interrupció.",
+        "d": "Per l’exercici d’un o més llocs del nivell corresponent durant 2 anys continuats o 3 amb interrupció."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Segons la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, les persones interessades que no estiguin obligades a rebre notificacions electròniques poden decidir, i comunicar a l’Administració pública, que les notificacions successives es practiquin o es deixin de practicar per mitjans electrònics: (assenyaleu la resposta correcta):",
+      "answers": {
+        "a": "A l’inici del procediment i aquesta opció s’haurà de mantenir fins al final.",
+        "b": "En qualsevol moment i mitjançant els models normalitzats que s’estableixin a l’efecte.",
+        "c": "En qualsevol moment en els procediments iniciats a sol·licitud de la persona interessada i quan les notificacions continguin mitjans de pagament a favor dels obligats, com ara xecs.",
+        "d": "Les persones interessades que no estan obligades a rebre notificacions electròniques no poden decidir el mitjà, la pràctica de notificacions s’efectuarà només en paper."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Les fases del procediment administratiu són:",
+      "answers": {
+        "a": "Incoació, instrucció, finalització i seguiment.",
+        "b": "Iniciació, instrucció, terminació i publicació.",
+        "c": "Iniciació, ordenació, instrucció i finalització.",
+        "d": "Iniciació, ordenació, tràmit d’audiència i finalització."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Un procediment administratiu es pot iniciar:",
+      "answers": {
+        "a": "Només a sol·licitud de la persona interessada.",
+        "b": "Només el pot iniciar l’òrgan competent per ordre directa superior.",
+        "c": "Es pot iniciar únicament d’ofici per acord de l’òrgan competent com a conseqüència d’una denúncia.",
+        "d": "D’ofici per acord de l’òrgan competent o a sol·licitud de la persona interessada."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 41,
+      "question": "D’acord amb l’art. 30 de la Llei 39/2015, sempre que per llei o en el dret de la Unió Europea no s’expressi un altre còmput, quan els terminis s’assenyalin per dies (indiqueu la resposta correcta):",
+      "answers": {
+        "a": "S’entén que aquests són hàbils, i s’exclouen del còmput els dissabtes, els diumenges i els declarats festius.",
+        "b": "S’entén que aquests són naturals, i s’inclouen en el còmput els dissabtes, els diumenges i els declarats festius.",
+        "c": "S’entén que aquests són hàbils, i s’inclouen en el còmput només els diumenges i els declarats festius.",
+        "d": "S’entén que aquests són naturals, i s’exclouen del còmput només els diumenges i els declarats festius."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 42,
+      "question": "D’acord amb l’art. 61 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, la proposta d’iniciació del procediment formulada per qualsevol òrgan administratiu que no té competència per iniciar-lo (indiqueu la resposta correcta):",
+      "answers": {
+        "a": "Vincularà l’òrgan competent per iniciar el procediment.",
+        "b": "No vincularà l’òrgan competent per iniciar el procediment, i no serà necessari comunicar a l’òrgan que l’hagi formulat els motius pels quals, si s’escau, la iniciació no és procedent.",
+        "c": "No vincularà l’òrgan competent per iniciar el procediment, si bé ha de comunicar a l’òrgan que l’hagi formulat els motius pels quals, si s’escau, la iniciació no és procedent.",
+        "d": "No existeix; en cap cas els òrgans administratius que no tenen competència per iniciar un procediment poden proposar-ne l’inici."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 43,
+      "question": "D’acord amb l’art. 40 de la Llei 39/2015, tota notificació s’ha de cursar dins del termini de (indiqueu la resposta correcta):",
+      "answers": {
+        "a": "20 dies a partir de la data en què s’hagi dictat l’acte.",
+        "b": "10 dies a partir de la data en què s’hagi dictat l’acte.",
+        "c": "15 dies a partir de la data en què s’hagi dictat l’acte.",
+        "d": "No estableix un termini màxim de notificació, només de resolució."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 44,
+      "question": "Respecte la nul·litat de ple dret de l’acte administratiu, quins dels següents, són nuls de ple dret:",
+      "answers": {
+        "a": "Els actes que tinguin un contingut possible.",
+        "b": "Les disposicions administratives que no estableixin la retroactivitat de disposicions restrictives de drets individuals.",
+        "c": "Els actes expressos o presumptes contraris a l’ordenament jurídic pels quals s’adquireixen facultats o drets quan no es tinguin els requisits essencials per adquirir-los.",
+        "d": "Els actes dictats per un òrgan competent per raó de matèria o territori."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Contra les disposicions administratives de caràcter general:",
+      "answers": {
+        "a": "No es pot interposar cap recurs en via administrativa.",
+        "b": "Es pot interposar recurs extraordinari de revisió.",
+        "c": "Es pot interposar recurs d’alçada i potestatiu de reposició.",
+        "d": "Es pot interposar recurs d’alçada sempre."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 46,
+      "question": "D’acord amb l’art. 121 de la Llei 39/2015, el recurs d’alçada:",
+      "answers": {
+        "a": "S’ha d’interposar sempre davant l’òrgan que va dictar l’acte que s’impugna.",
+        "b": "S’ha d’interposar sempre davant l’òrgan competent per resoldre’l.",
+        "c": "Es pot interposar davant qualsevol òrgan de l’administració.",
+        "d": "Es pot interposar davant l’òrgan que va dictar l’acte que s’impugna o davant el competent per resoldre’l."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 47,
+      "question": "D’acord amb l’art. 48.2 de la Llei 39/2015 de procediment administratiu comú de les administracions públiques, serà anul•lable l’acte que:",
+      "answers": {
+        "a": "Lesioni els drets i les llibertats susceptibles d’empara constitucional.",
+        "b": "No tingui els requisits formals indispensables per assolir el seu fi o doni lloc a la indefensió de les persones interessades.",
+        "c": "Sigui contrari a l’ordenament jurídic i pel qual s’adquireixen facultats o drets quan no es tinguin els requisits essencials per adquirir-los.",
+        "d": "Tingui un contingut impossible."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 48,
+      "question": "En la interposició d’un recurs, segons l’article 115 de la Llei 39/2015 de procediment administratiu comú de les administracions públiques:",
+      "answers": {
+        "a": "L’error o l’absència de la qualificació del recurs per part del recurrent no és obstacle per tramitar-lo, sempre que es dedueixi el seu caràcter vertader.",
+        "b": "El nom de la persona recurrent s’ha de mantenir codificat, per protecció de dades personals.",
+        "c": "No és necessari indicar ni el lloc, ni la data, ni la signatura de la persona recurrent.",
+        "d": "Tothom pot al·legar els vicis i defectes que facin anul·lable un acte, incloent-hi qui els hagi causat."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Les universitats públiques:",
+      "answers": {
+        "a": "No són sector públic, tot i el seu nom, ja que no depenen de cap Departament de la Gereneralitat, Estat o administracions locals.",
+        "b": "Deixen de ser sector públic els anys que no reben fons econòmics de les administracions central o autonòmica.",
+        "c": "Són òrgans descentralitzats del Ministeri d'Educació i Formació Professional.",
+        "d": "Són sector públic i es regeixen per la seva normativa específica i, supletòriament, per les previsions de la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 50,
+      "question": "Segons l’art. 13 de la Llei 26/2010 de règim jurídic i de procediment de les administracions públiques de Catalunya, el funcionament dels òrgans col·legiats i les comunicacions i la documentació corresponents, poden tenir lloc:",
+      "answers": {
+        "a": "De manera presencial, per part de dos terços dels membres com a mínim.",
+        "b": "De manera presencial, a distància o mixta.",
+        "c": "Virtualment només quan es tenen habilitats sistemes de vot telemàtic.",
+        "d": "Només de manera presencial."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 51,
+      "question": "D’acord amb l’art. 17 de la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic, perquè la constitució de l’òrgan sigui vàlida, als efectes de la celebració de sessions, deliberacions i presa d’acords:",
+      "answers": {
+        "a": "Es requereix l’assistència, presencial o a distància, del president/a i el secretari/ària o, si s’escau, dels qui els supleixin, i la de dos terços, almenys, dels seus membres.",
+        "b": "Es requereix l’assistència, presencial o a distància, del president/a i el secretari/ària o, si s’escau, dels qui els supleixin, i la de la meitat, almenys, dels seus membres.",
+        "c": "Es requereix l’assistència, presencial o a distància, del president/a o, si s’escau, de qui el supleixi, i la de dos terços, almenys, dels seus membres, i és opcional l’assistència del secretari/ària.",
+        "d": "Es requereix l’assistència, presencial o a distància, del secretari o, si s’escau, de qui el supleixi i la de dos terços, almenys, dels seus membres, i és opcional l’assistència del president/a."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 52,
+      "question": "Segons la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic, tenen consideració d’administració pública: (assenyaleu la resposta INCORRECTA)",
+      "answers": {
+        "a": "L’Administració general de l’Estat.",
+        "b": "Les administracions de les comunitats autònomes.",
+        "c": "Les entitats que integren l’administració local.",
+        "d": "Les entitats de dret privat vinculades o dependents de les administracions públiques."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 53,
+      "question": "La Seu electrònica de l’Ajuntament de Barcelona disposa d’una oficina virtual de tràmits i accedint a “l’Espai Personal” es poden consultar: (assenyaleu la resposta correcta):",
+      "answers": {
+        "a": "Informació d’interès per al meu negoci i assessorament per a empreses i emprenedors/ores.",
+        "b": "Les meves dades d’empadronament, impostos i multes.",
+        "c": "Els meus rebuts de nòmina i antiguitat reconeguda.",
+        "d": "El meu currículum i el meu historial formatiu."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 54,
+      "question": "Què es pot fer des de l’Oficina virtual de tràmits del web de l’Ajuntament de Barcelona?",
+      "answers": {
+        "a": "Demanar cita per renovar el passaport.",
+        "b": "Sol·licitar ajuts socials.",
+        "c": "Consultar l’agenda cultural de la ciutat de Barcelona.",
+        "d": "Matricular-se a les escoles públiques municipals de Barcelona."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 55,
+      "question": "Quina de les següents opcions NO podem trobar a la intranet?",
+      "answers": {
+        "a": "Oficina d’atenció al personal.",
+        "b": "Ofertes al personal.",
+        "c": "Notícies.",
+        "d": "Plànol de Barcelona."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 56,
+      "question": "De les següents respostes, què és el que NO podem fer des de l’eina de la intranet “el meu temps”",
+      "answers": {
+        "a": "Consultar els meus marcatges.",
+        "b": "Tramitar peticions de permisos.",
+        "c": "Consultar el rebut de temps.",
+        "d": "Consultar el rebut de la nòmina."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 57,
+      "question": "Assenyaleu quin dels següents apartats formen part de “La Meva Carpeta” dins la intranet municipal de l’Ajuntament de Barcelona:",
+      "answers": {
+        "a": "El meu temps, Rebut de nòmina i Suport SAU.",
+        "b": "El meu currículum, La meva Formació Anual i Eines del comandament.",
+        "c": "El meu temps, Certificats IRPF i Eina Col·laborativa Corporativa.",
+        "d": "Rebut de nòmina, El meu historial formatiu i Dades Personals."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 58,
+      "question": "El Pla d’igualtat vigent a l’Ajuntament de Barcelona ha estat elaborat per la comissió tècnica del Pla d’Igualtat, integrada per:",
+      "answers": {
+        "a": "6 persones de l’Administració i 6 persones de part de les organitzacions sindicals.",
+        "b": "4 persones de l’Administració, 4 persones de Generalitat i 4 persones de part de les organitzacions sindicals.",
+        "c": "6 persones de la Gerència de Persones i Desenvolupament Organitzatiu i 6 persones de la Junta de Personal i Comitè d’Empresa.",
+        "d": "1 persona de cada gerència de sector, districte i organisme autònom i 1 persona de cada secció sindical."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 59,
+      "question": "Un dels objectius estratègics en els processos de gestió de persones que recull el III Pla d'Igualtat d'oportunitats entre dones i homes de l'Ajuntament de Barcelona és:",
+      "answers": {
+        "a": "Garantir la igualtat retributiva entre dones i homes millorant el control dels factors que poden general discriminacions directes o indirectes entre dones i homes.",
+        "b": "Garantir la implementació de la perspectiva de gènere en la getió de persones, vetllant perquè tots els processos garanteixin la igualtat de tracte i d'oportunitats entre dones i homes.",
+        "c": "Institucionalitzar la igualtat de tracte i d'oportunitats entre dones i homes com a principi bàsic i transversal de l'organització.",
+        "d": "Garantir un entorn saludable i lliure de riscos per a dones i homes."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 60,
+      "question": "El foment de la igualtat d’oportunitats entre dones i homes està regulat per normativa",
+      "answers": {
+        "a": "Internacional, estatal, autonòmica i local.",
+        "b": "Estatal i autonòmica i local.",
+        "c": "Internacional, estatal i local.",
+        "d": "Internacional, comunitària, estatal i autonòmica."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 61,
+      "question": "Quan l’art. 50 de la Llei 39/2015 indica que “Els actes nuls o anul·lables que, tanmateix, continguin els elements constitutius d’un altre de diferent tenen els efectes d’aquest” està parlant de:",
+      "answers": {
+        "a": "Conversió d’actes viciats.",
+        "b": "Conservació d’actes i tràmits.",
+        "c": "Convalidació.",
+        "d": "Constricció d’actes administratius."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 62,
+      "question": "La figura que ostenta la màxima responsabilitat de l’estructura executiva és el/la:",
+      "answers": {
+        "a": "Gerent/a de Persones i Desenvolupament Organitzatiu.",
+        "b": "Primer/a Tinent/a d’Alcalde.",
+        "c": "Gerent/a Municipal.",
+        "d": "Gerent/a de Coordinació Territorial i Proximitat."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 63,
+      "question": "Quin és l’interval de nivells de llocs de treball que pot ocupar una persona funcionària de carrera del subgrup C1 a l’Ajuntament de Barcelona?",
+      "answers": {
+        "a": "Nivell 16 a 22.",
+        "b": "Nivell 18 a 22.",
+        "c": "Nivell 16 a 24.",
+        "d": "Nivell 18 a 24."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 64,
+      "question": "D’acord amb l’art. 9 de la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic (indiqueu la resposta correcta):",
+      "answers": {
+        "a": "La delegació de competències només es pot fer a òrgans administratius dependents jeràrquicament.",
+        "b": "La delegació de competències és irrevocable.",
+        "c": "Poden ser objecte de delegació les competències relatives a la resolució de recursos en els òrgans administratius que hagin dictat els actes objecte de recurs.",
+        "d": "Excepte en cas d’autorització expressa d’una llei, no es poden delegar les competències que s’exerceixin per delegació."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 65,
+      "question": "La Comissió paritària de seguiment del Pla d'igualtat es compon de:",
+      "answers": {
+        "a": "9 representants per part de l'administració i 8 representants per part de les organitzacions sindicals que formin part de la Mesa general de negociació.",
+        "b": "8 representants per part de l'administració i 8 representants per part de les organitzacions sindicals que formin part de la Mesa general de negociació.",
+        "c": "9 representants per part de l'administració i 9 representants per part de les organitzacions sindicals que formin part de la Mesa general de negociació.",
+        "d": "7 representants per part de l'administració i 7 representants per part de les organitzacions sindicals que formin part de la Mesa general de negociació."
+      },
+      "correct": [
+        "c"
+      ]
+    }
+  ]
+}

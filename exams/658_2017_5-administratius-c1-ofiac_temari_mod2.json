@@ -1,0 +1,657 @@
+{
+  "metadata": {
+    "model": 2
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "L'Impost sobre vehicles de tracció mecànica,",
+      "answers": {
+        "a": "No ho han de pagar els propietaris d'un vehicle que només participa a exhibicions",
+        "b": "No s'aplica a les ambulàncies",
+        "c": "No aplica als remolcs de càrrega útil no superior a 750 kg.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Un contracte que té per objecte l'adquisició d'un bé moble, és",
+      "answers": {
+        "a": "Un contracte de concessió d'obres públiques",
+        "b": "Un contracte de gestió de serveis públics",
+        "c": "Un contracte de subministrament",
+        "d": "cap de les respostes anteriors és correcta."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Com es redacta normalment el contingut de l'acte administratiu?",
+      "answers": {
+        "a": "Encapçalament identificant l'òrgan emissor, preàmbul, motivació si escau legalment, part dispositiva i en darrer terme, el lloc, la data i la signatura.",
+        "b": "Òrgan receptor, òrgan emissor, antecedents, part dispositiva, part expositiva i en darrer terme, el lloc, la data i la signatura.",
+        "c": "Òrgan receptor, preàmbul, exposició de motius, lloc, data i signatura.",
+        "d": "Encapçalament (lloc i data), antecedents, part expositiva, part dispositiva, signatura."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 4,
+      "question": "El codi ètic del servei públic de Catalunya,",
+      "answers": {
+        "a": "diu que és necessari l'alineament amb les polítiques públiques i que cal una bona relació basada en la confiança entre els servidors públics i els responsables polítics",
+        "b": "diu que les persones que integren el servei públic de Catalunya han de prendre consciència de l'impacte sociocultural i mediambiental que poden tenir la seva actuació i decisions",
+        "c": "diu que en cas de pràctiques reprovables s'ha de protegir els alertadors.",
+        "d": "Totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 5,
+      "question": "La coordinació, com a principi d'actuació a l'Administració Pública,",
+      "answers": {
+        "a": "Queda regulada a l'art. 140 de la Constitució Espanyola.",
+        "b": "Significa que l'Administració ha d'actuar garantint un nivell de relacions entre els seus òrgans orientades a l'objectiu comú.",
+        "c": "Significa que l'Administració ha d'actuar ponderant tots els interessos en joc.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 6,
+      "question": "En l’atenció ciutadana, les xarxes socials són òptimes per:",
+      "answers": {
+        "a": "poder donar respostes immediates",
+        "b": "redirigir les persones cap al web corporatiu",
+        "c": "fer que es crein xarxes temàtiques complementàries per l'Ajuntament",
+        "d": "Totes les respostes són correctes"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 7,
+      "question": "El pressupost municipal,",
+      "answers": {
+        "a": "Es classifica per programes",
+        "b": "Es classifica d'acord amb els ingressos i les despeses",
+        "c": "Les transferències corrents són despeses i ingressos",
+        "d": "Totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Des de la perspectiva de l'eficàcia, la redacció dels documents administratius, ha de ser:",
+      "answers": {
+        "a": "funcional",
+        "b": "formal",
+        "c": "universal",
+        "d": "transversal"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Son delictes contra l’Administració que poden cometre els funcionaris en l’exercici del seu càrrec",
+      "answers": {
+        "a": "prevaricació",
+        "b": "denegació d'auxili",
+        "c": "infidelitat en la custòdia de documents",
+        "d": "Totes les respostes són certes"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 10,
+      "question": "Per a què el Sr. Jiménez pugui acreditar davant un tercer que consta inscrit al padró municipal, des d'una data concreta i un domicili determinat, necessita:",
+      "answers": {
+        "a": "un decret",
+        "b": "un ofici",
+        "c": "un certificat",
+        "d": "una carta"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Pel que fa als principis d'actuació a l'Administració Pública, la descentralització és:",
+      "answers": {
+        "a": "La possibilitat de desenvolupar polítiques transversals des d'una Administració que puguin afectar a d'altres, al tractar-se de la mateixa competència o funció.",
+        "b": "La possibilitat de desenvolupar polítiques pròpies des dels diferents òrgans de govern d'una Administració",
+        "c": "La possibilitat de traspassar funcions dels òrgans superiors a òrgans inferiors dins d'una mateixa Administració.",
+        "d": "La possibilitat de distribuir funcions o traspassar competències entre diferents Administracions, ja siguin territorials o institucionals."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 12,
+      "question": "El document mitjançant el qual l'alcalde d'un municipi imposa una disposició jurídica directament a la població, per una raó concreta, i que serveix per a recordar l'observació i el compliment de la normativa, és:",
+      "answers": {
+        "a": "Un decret",
+        "b": "Un acord",
+        "c": "Un ban",
+        "d": "Un anunci"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 13,
+      "question": "El llenguatge administratiu es caracteritza per",
+      "answers": {
+        "a": "ser heterogeni i haver-se d'adaptar a les diferents varietats geogràfiques i socials.",
+        "b": "ser estructurat, ja que parteix de la normativa i del procediment administratiu.",
+        "c": "separar els paràgrafs d'acord amb la relació que hi ha entre ells",
+        "d": "ser estàndard, ja que utilitza el mateix tipus i tamany de lletra a totes les Administracions"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Son capacitats per l'atenció a la ciutadania,",
+      "answers": {
+        "a": "el treball en equip, la vocació de servei públic, la capacitat per resoldre problemes, la capacitat de decidir, la flexibilitat i el control de les emocions.",
+        "b": "la cura de l'entorn de treball i de la qualitat, la capacitat per resoldre situacions no protocol·litzades, la iniciativa",
+        "c": "la memòria, l'empatia",
+        "d": "totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Quan es parla d'eficàcia dels actes administratius,",
+      "answers": {
+        "a": "Vol dir que els actes de les Administracions Públiques subjectes al dret administratiu, es presumeixen vàlids i produeixen efectes des de l'endemà de la data en què es dicten, encara que a la resolució s'hi disposi una altra cosa.",
+        "b": "Vol dir que els actes de les Administracions Públiques subjectes al dret administratiu, es presumeixen vàlids i produeixen efectes des de l'endemà de la data en què es dicten, llevat que s'hi disposi una altra cosa.",
+        "c": "Vol dir que els actes de les Administracions Públiques subjectes al dret administratiu, produeixen efectes des de la data en què es dicten, encara que a la resolució s'hi disposi una altra cosa.",
+        "d": "Vol dir que els actes de les Administracions Públiques subjectes al dret administratiu, es presumeixen vàlids i produeixen efectes des de la data en què es dicten, llevat que s'hi disposi una altra cosa."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 16,
+      "question": "Les actes de les sessions dels òrgans col·legiats,",
+      "answers": {
+        "a": "Les signa el secretari o secretària, amb el vistiplau del president o presidenta",
+        "b": "Les signa el president o presidenta, amb el vistiplau del secretari o secretària",
+        "c": "només han de fer constar els acords presos",
+        "d": "no és obligatori fer constar els assistents"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 17,
+      "question": "El nucli d'una carta,",
+      "answers": {
+        "a": "Està format per la presentació del motiu, el desenvolupament o arguments i la conclusió",
+        "b": "Està format per la presentació del motiu, el desenvolupament o arguments, la conclusió i la salutació",
+        "c": "Està format per la presentació del motiu, el desenvolupament o arguments, la conclusió, el comiat i la salutació",
+        "d": "Està format per la introducció, el nus i el desenllaç"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Pel que fa a la regulació que fa la Constitució de l'Administració Local,",
+      "answers": {
+        "a": "Garanteix l'autonomia dels municipis.",
+        "b": "Els municipis tenen personalitat jurídica plena.",
+        "c": "El govern i l'administració correspon als seus respectius Ajuntaments, integrats per Alcaldes i regidors.",
+        "d": "Totes les respostes anteriors són certes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 19,
+      "question": "D'acord amb el Reglament Orgànic Municipal de Mataró, és un òrgan complementari:",
+      "answers": {
+        "a": "La Junta de Portaveus",
+        "b": "La Junta de Govern",
+        "c": "Les tinences d'Alcaldia",
+        "d": "totes les respostes són correctes."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 20,
+      "question": "Si un/a funcionari/ària discrimina una persona per raó de la seva ideologia:",
+      "answers": {
+        "a": "Podria estar subjecte a responsabilitat penal",
+        "b": "Podria estar subjecte a responsabilitat disciplinària",
+        "c": "Podria estar subjecte a responsabilitat comptable",
+        "d": "Les respostes a i b són correctes"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 21,
+      "question": "Què és el govern obert?",
+      "answers": {
+        "a": "És un concepte que vincula els principis d'administració electrònica, procediment administratiu i participació ciutadana.",
+        "b": "És un concepte que vincula els principis de cooperació i d'administració electrònica",
+        "c": "És un concepte que relaciona els principis de transparència, participació ciutadana i col·laboració.",
+        "d": "totes les respostes són certes."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 22,
+      "question": "D'acord amb el text refós de l'estatut bàsic de l'empleat públic, els sistemes de selecció del personal, són,",
+      "answers": {
+        "a": "el concurs oposició i l'oposició.",
+        "b": "l'oposició i excepcionalment el concurs oposició.",
+        "c": "el concurs de mèrits i excepcionalment l'oposició.",
+        "d": "l'oposició, el concurs oposició i excepcionalment el concurs."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 23,
+      "question": "La llei 19/2014, de 29 de desembre, de transparència, accés a la informació pública i bon govern, té per objecte",
+      "answers": {
+        "a": "regular el dret d'accés de les persones a la informació i documentació públiques",
+        "b": "aplicar el govern obert i fomentar la participació i col·laboració ciutadana.",
+        "c": "promoure els drets de les persones a una Administració amb mitjans electrònics.",
+        "d": "les respostes a i b són certes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 24,
+      "question": "D'acord amb l'art. 112 de la LPACAP, es pot interposar un recurs administratiu:",
+      "answers": {
+        "a": "Contra les resolucions definitives i els actes de tràmit no qualificats.",
+        "b": "Contra les resolucions definitives i els actes de tràmit que determinin la impossibilitat de continuar amb el procediment.",
+        "c": "Contra les resolucions provisionals i els actes de tràmit qualificats.",
+        "d": "Totes les respostes són certes."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Alguns exemples d'expressions que cal evitar quan atenem a una persona, són",
+      "answers": {
+        "a": "Tingui paciència",
+        "b": "No es posi nerviós",
+        "c": "No es preocupi, només cal que presenti el model DRPOB-18 que trobarà en pdf a la pàgina web municipal.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 26,
+      "question": "La interoperabilitat,",
+      "answers": {
+        "a": "Té caràcter multidimensional, i recull elements de no discriminació de la ciutadania per raó de la seva elecció tecnològica.",
+        "b": "Contempla la possibilitat d'enllaçar infrastructures i serveis comuns entre Administracions.",
+        "c": "Té caràcter voluntari, es recull a la llei 40/2015 i ha de garantir la protecció de dades de caràcter personal.",
+        "d": "Les respostes a i b són certes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Tota persona que tingui capacitat d'actuar davant l'Administració Pública,",
+      "answers": {
+        "a": "Té dret a comunicar-se amb les Administracions a través d'un punt d'accés general electrònic.",
+        "b": "Té dret a ser assistida en l'ús dels mitjans electrònics i utilitzar els mitjans de signatura electrònica que disposi la llei.",
+        "c": "Té dret a utilitzar qualsevol de les llegues oficials de la Unió Europea.",
+        "d": "Les respostes a i b són certes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Un ofici,",
+      "answers": {
+        "a": "Comunica oficialment a una altra Administració quelcom concret relacionat amb un expedient",
+        "b": "Comunica oficialment a una persona física un assumpte concret relacionat amb un expedient",
+        "c": "Comunica oficialment a una persona jurídica un assumpte concret relacionat amb un expedient",
+        "d": "Totes les respostes són correctes"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Els acords d'un òrgan col·legiat,",
+      "answers": {
+        "a": "s'adopten per majoria simple de vots, llevat que una norma específica estableixi una altra cosa.",
+        "b": "si un membre discrepa de l'acord majoritari, pot formular un vot particular",
+        "c": "es consideren vàlids si s'han adoptat mitjançant sessió telemàtica de l'organ amb quòrum suficient",
+        "d": "totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 30,
+      "question": "El document que expedeix l'Administració, en el qual una persona autoritzada legalment fa constar oficialment alguna circumstància és",
+      "answers": {
+        "a": "un ofici",
+        "b": "un certificat",
+        "c": "un decret",
+        "d": "una carta"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Quina redacció és la millor, des de la perspectiva del llenguatge administratiu?",
+      "answers": {
+        "a": "Hom ha requerit a la persona interessada que presenti els documents necessaris",
+        "b": "Es va requerir a la persona interessada per presentar els documents necessaris",
+        "c": "L'Ajuntament ha requerit a l'interessat que presenti els documents necessaris",
+        "d": "L'Ajuntament ha fet un requeriment de presentació de documents administratius a/a la interessat/da."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 32,
+      "question": "En l'atenció presencial a la ciutadania, és important,",
+      "answers": {
+        "a": "el discurs assertiu, és a dir, fent servir frases que denotin que ens posem en la situació de la persona.",
+        "b": "el discurs empàtic, és a dir, parlar afablement i amb fermesa, fent servir frases curtes i mirant directament als ulls.",
+        "c": "el discurs social, és a dir, controlant que el nostra llenguatge no verbal sigui solidari.",
+        "d": "cap de les respostes anteriors és correcte."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Quina de les següents respostes és falsa?",
+      "answers": {
+        "a": "Les províncies són entitats locals dotades d'autonomia per gestionar els interessos respectius.",
+        "b": "Els dos ens bàsics de l'estructura territorial de l'Estat són, a més de les comunitats autònomes que es puguin constituir, els municipis i les comarques.",
+        "c": "Els estatuts podran establir circumscripcions territorials pròpies amb plena personalitat jurídica agrupant municipis limítrofs",
+        "d": "Els articles 137,140 i 141 de la Constitució estableixen un model general d'organització territorial per a tot l'Estat"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 34,
+      "question": "l'IBI,",
+      "answers": {
+        "a": "És un impost indirecte de titularitat municipal",
+        "b": "És un impost que grava el valor dels immobles",
+        "c": "Depèn del valor cadastral, que està integrat pel valor cadastral del sòl i el de la construcció.",
+        "d": "Les respostes b i c són correctes"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Una diligència,",
+      "answers": {
+        "a": "és un certificat intern",
+        "b": "no té destinatari",
+        "c": "permet utilitzar la fòrmula ''faig constar''",
+        "d": "totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 36,
+      "question": "El pressupost consolidat,",
+      "answers": {
+        "a": "Inclou el pressupost de l'Ajuntament i els seus ens dependents.",
+        "b": "No s'elabora segons la Llei Reguladora de les Hisendas Locals, sinó segons la Llei Orgànica d'Estabilitat Pressupostària i Sostenibilitat Financera.",
+        "c": "Es refereix al pressupost de l'Ajuntament sense els seus ens dependents.",
+        "d": "Les respostes a i b són correctes."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Quina redacció és la més correcta, des de la perspectiva del llenguatge administratiu?",
+      "answers": {
+        "a": "Si ha de desplaçar-se a les nostres dependències o no, dependrà del que sigui decidit per la cap d'atenció ciutadana",
+        "b": "La cap d'atenció ciutadana li farà arribar per algun dels mitjans de comunicació habituals, probablement per correu electrònic, la resposta.",
+        "c": "Allò que decideixi la cap d'atenció ciutadana se li comunicarà, a fi i efecte que Vd. sàpiga si és necessari que vingui a les nostres dependències.",
+        "d": "La cap d'atenció ciutadana li comunicarà la resposta per correu electrònic."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 38,
+      "question": "El reglament orgànic municipal de Mataró,",
+      "answers": {
+        "a": "No fixa una periodicitat concreta per les sessions de la Junta de Govern Local",
+        "b": "Fixa una periodicitat d'un cop al mes per les sessions plenàries, exceptuant el mes d'agost",
+        "c": "Preveu que l'Alcalde podrà fixar sessions de Junta de Govern Local per motius extraordinaris i urgents",
+        "d": "Totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Constitueix el fonament de l'ordre polític i de la pau social, segons la Constitució:",
+      "answers": {
+        "a": "els drets inviolables inherents a la persona",
+        "b": "L'estat social i democràtic de Dret",
+        "c": "la seguretat jurídica",
+        "d": "la Justícia"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Són empleats/des públics/ques;",
+      "answers": {
+        "a": "El personal funcionari i el personal interí",
+        "b": "El personal laboral",
+        "c": "El personal eventual",
+        "d": "Totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Un factor de risc laboral freqüentment associat a l'atenció ciutadana, és",
+      "answers": {
+        "a": "burnout",
+        "b": "atenció canviant elevada",
+        "c": "mobbing",
+        "d": "Totes les respostes anteriors són correctes"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 42,
+      "question": "La normativa reguladora de la protecció de dades de caràcter personal,",
+      "answers": {
+        "a": "dóna caràcter personalíssim als drets d'accés, rectificació, cancel·lació i oposició de les dades de caràcter personal, sense possibilitat d'acreditar vàlidament un representant, tret de casos excepcionals.",
+        "b": "és la Llei orgànica 15/1999, de 13 de desembre, de protecció de dades de caràcter personal .",
+        "c": "és el Reglament de desenvolupament de la Llei orgànica 15/1999, de 13 de desembre, de protecció de dades de caràcter personal",
+        "d": "Les respostes b i c són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 43,
+      "question": "D'acord amb el Reglament Orgànic Municipal de Mataró,",
+      "answers": {
+        "a": "El Registre Municipal d'Entitats es custodia i gestiona pel Tresorer/a de la Corporació i té caràcter públic.",
+        "b": "La inscripció al Registre Municipal d'Entitats, es fa d'ofici des de l'Ajuntament o a sol·licitud de les persones interessades.",
+        "c": "La inscripció al Registre Municipal d'Entitats, requereix que les entitats aportin els seus Estatuts i el domicili social.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 44,
+      "question": "La llei 19/2014, de transparència, accés a la informació pública i bon govern,",
+      "answers": {
+        "a": "és normativa aprovada per la Generalitat de Catalunya",
+        "b": "és d'aplicació als anomenats per la mateixa llei com a 'grups d'interès'",
+        "c": "estableix límits a les obligacions de transparència",
+        "d": "Totes les respostes són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Pel que fa a la protecció de dades de caràcter personal, amb caràcter general:",
+      "answers": {
+        "a": "Els principis es troben recollits al títol II de la Llei 15/1999, de 13 de desembre.",
+        "b": "És necessari el consentiment encara que les dades personals es recullin per fer funcions pròpies de les Administracions Públiques, en l'àmbit de les seves competències.",
+        "c": "No es pot obligar a una persona a declarar sobre la seva ideologia o religió.",
+        "d": "Les respostes a i c són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 46,
+      "question": "És un criteri d'estil en la redacció administrativa:",
+      "answers": {
+        "a": "La preferència per la veu passiva",
+        "b": "L'absència de frases afirmatives",
+        "c": "La preferència per les construccions no nominals",
+        "d": "Totes les respostes anteriors són correctes"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 47,
+      "question": "L'acte administratiu pot contenir:",
+      "answers": {
+        "a": "Una declaració de voluntat, com per exemple una certificació.",
+        "b": "Una declaració de judici, com per exemple un dictàmen.",
+        "c": "Una declaració de desig, per exemple una proposta o petició d'un ens a un altre.",
+        "d": "les respostes b i c són correctes."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 48,
+      "question": "El Secretari dóna el vistiplau quan,",
+      "answers": {
+        "a": "S'expedeix un certificat",
+        "b": "S'expedeix un ofici",
+        "c": "S'expedeix una diligència",
+        "d": "Cap de les respostes anteriors és correcta."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 49,
+      "question": "Digues quina de les següents afirmacions és falsa:",
+      "answers": {
+        "a": "En alguns supòsits, el recurs d'alçada es pot substituir per un altre procediment d'impugnació.",
+        "b": "El recurs d'alçada té la doble naturalesa de mecanisme de revisió i de requisit per recórrer posteriorment a la via judicial",
+        "c": "Contra la resolució d'un recurs d'alçada no es pot interposar cap altre recurs administratiu, llevat del recurs extraordinari de revisió, si així ho estableix la normativa.",
+        "d": "Com a norma general, la desestimació del recurs d'alçada tanca la via jurisdiccional contenciosa administrativa."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 50,
+      "question": "L'esquema nacional d'interoperabilitat,",
+      "answers": {
+        "a": "Es regula a la llei 40/2015 d'1 d'octubre, de règim jurídic del sector públic i es concep des d'una perspectiva sectorial.",
+        "b": "Estableix criteris i recomanacions que han de tenir en compte totes les Administracions, en línia amb la UE.",
+        "c": "Respecte les actuacions puntuals i tractaments conjunturals, per que són les que dónen fortalesa als sistemes de gestió electrònica.",
+        "d": "Totes les respostes anteriors són certes."
+      },
+      "correct": [
+        "b"
+      ]
+    }
+  ]
+}

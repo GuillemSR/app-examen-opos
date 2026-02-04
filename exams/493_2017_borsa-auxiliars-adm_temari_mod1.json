@@ -1,0 +1,533 @@
+{
+  "metadata": {
+    "model": 1
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "El tret definitori relacionat amb l’eficàcia dels textos, amb la precisió i la concisió, és",
+      "answers": {
+        "a": "La universalitat",
+        "b": "La formalitat",
+        "c": "La funcionalitat",
+        "d": "La transversalitat."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 2,
+      "question": "L’ofici,",
+      "answers": {
+        "a": "Comunica oficialment a una altra Administració quelcom concret relacionat amb un expedient.",
+        "b": "Totes les respostes són correctes.",
+        "c": "Comunica oficialment a una persona física un assumpte concret relacionat amb un expedient.",
+        "d": "Comunica oficialment a una persona jurídica quelcom concret relacionat amb un expedient."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 3,
+      "question": "A l’Administració, una carta s’utilitza,",
+      "answers": {
+        "a": "Com a document per comunicar a altres òrgans de l’Administració i la ciutadania, temes no relacionats amb el procediment administratiu i la tramitació.",
+        "b": "Com a document per comunicar a altres òrgans de l’Administració temes relacionats amb el procediment administratiu.",
+        "c": "Com a document per comunicar a altres òrgans de l’Administració i la ciutadania, temes relacionats amb el procediment administratiu i la tramitació.",
+        "d": "Com a document per comunicar a altres òrgans de l’Administració temes relacionats amb la tramitació administrativa."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Una diligència",
+      "answers": {
+        "a": "totes són certes.",
+        "b": "No té destinatari",
+        "c": "permet utilitzar la fórmula “faig constar”",
+        "d": "És un certificat intern"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 5,
+      "question": "El llenguatge administratiu es caracteritza",
+      "answers": {
+        "a": "Per ser obert i no estructurat",
+        "b": "Per ser estructurat",
+        "c": "Té com a norma que els documents es redactin en times new roman mida 11.",
+        "d": "Per estar separats per paràgrafs que poden o no tenir relació entre ells. prova eliminatòria (mínim 5 punts; màxim 10) - Model 1 1"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Quina és la millor redacció?",
+      "answers": {
+        "a": "Aquesta informació és la corresponent al mes passat.",
+        "b": "Aquesta informació correspon al mes passat.",
+        "c": "Aquestes dades i gràfics interpretatius són els corresponents al mes passat.",
+        "d": "Aquests gràfics i dades interpretatives, són aquells/es que corresponen al mes passat."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 7,
+      "question": "Si hem d’enviar una carta a una entitat bancària,",
+      "answers": {
+        "a": "a i c són correctes.",
+        "b": "Obligatòriament ha de constar codi postal, població, província del destinatari.",
+        "c": "S’ha de fer constar com a mínim el nom, cognoms i càrrec del destinatari.",
+        "d": "Obligatòriament ha de constar codi postal, població i comarca del destinatari."
+      },
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Quina redacció és més correcta?",
+      "answers": {
+        "a": "No és del tot impossible",
+        "b": "Sembla possible",
+        "c": "No és impossible",
+        "d": "És possible"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Quina redacció és la més correcta?",
+      "answers": {
+        "a": "Allò que decideixi la cap del servei d’atenció ciutadana se li comunicarà, a fi i efecte que sàpiga si és necessari venir a les nostres dependències.",
+        "b": "Si ha de desplaçar-se a les nostres dependències o no, dependrà completament en allò que sigui decidit per la cap d’atenció ciutadana.",
+        "c": "Un cop la cap d’atenció ciutadana li faci arribar per algun dels mitjans de comunicació habituals, probablement per correu electrònic, si ha de desplaçar-se o no...",
+        "d": "La cap del servei d’atenció ciutadana us comunicarà si ha de desplaçar-se a les nostres dependències."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 10,
+      "question": "El nucli d’una carta,",
+      "answers": {
+        "a": "Està format per la presentació del motiu, el desenvolupament o arguments i la conclusió.",
+        "b": "Està format per la presentació del motiu, el desenvolupament o arguments, la conclusió, el comiat i la salutació.",
+        "c": "Està format per la introducció, el nus i el desenllaç.",
+        "d": "Està format per la presentació del motiu, el desenvolupament o arguments, la conclusió i la salutació."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 11,
+      "question": "Quina és la millor redacció?",
+      "answers": {
+        "a": "L’Ajuntament ha requerit a l’interessat que presenti els documents necessaris.",
+        "b": "Hom ha requerit a la persona interessada que presenti els documents necessaris.",
+        "c": "Es va requerir a la persona interessada per presentar els documents necessaris.",
+        "d": "L’Ajuntament ha fet un requeriment de presentació de documentació administrativa necessària a l’interessat."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Per fer possible que el Sr. Manuel Jiménez pugui acreditar davant un tercer que consta inscrit al padró\nmunicipal del municipi, des de una data concreta i un domicili determinat, cal fer,",
+      "answers": {
+        "a": "Un certificat",
+        "b": "Una carta",
+        "c": "Un decret",
+        "d": "Un ofici"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 13,
+      "question": "A un paràgraf d’un document administratiu,",
+      "answers": {
+        "a": "L’element més important són els signes de puntuació, ja que és el què dóna sentit al paràgraf.",
+        "b": "L’element més important és la primera frase o frase principal, ja que és el primer que es llegeix i ha d’introduir la idea central.",
+        "c": "L’element més important és la darrera frase o frase principal, ja que és el darrer que es llegeix i ha d’introduir la idea central.",
+        "d": "L’element més important és la frase central, ja que és el cos del missatge i ha d’introduir la idea central. prova eliminatòria (mínim 5 punts; màxim 10) - Model 1 2"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 14,
+      "question": "L’Alcalde dóna el vistiplau quan",
+      "answers": {
+        "a": "S’expedeix un decret",
+        "b": "S’expedeix un ofici",
+        "c": "S’expedeix un acord de Ple",
+        "d": "S’expedeix un certificat"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Quina redacció és la més recomanable?",
+      "answers": {
+        "a": "L’Ajuntament vol conscienciar la ciutadania sobre el risc d’accident de trànsit.",
+        "b": "L’Ajuntament vol conscienciar els ciutadans sobre el tema dels accidents de trànsit.",
+        "c": "L’Ajuntament vol conscienciar les persones ciutadans i ciutadanes sobre el tema dels accidents de trànsit.",
+        "d": "L’Ajuntament vol conscienciar la ciutadania sobre la qüestió dels accidents de trànsit."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 16,
+      "question": "El signant d’una notificació és",
+      "answers": {
+        "a": "El/la cap de l’àrea de l’expedient del qual s’hagi resolt aquella qüestió.",
+        "b": "L’interventor/a",
+        "c": "L’Alcalde/essa",
+        "d": "El/la Secretari/ària"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 17,
+      "question": "La signatura dels documents administratiu, conté les següents parts",
+      "answers": {
+        "a": "El càrrec de la persona signant, el nom i els cognoms",
+        "b": "El nom i cognoms i tots els diferents càrrecs que una mateixa persona ostenti",
+        "c": "Només el càrrec de la persona que signa i la data, per la llei de protecció de dades.",
+        "d": "Només la signatura i la data, per la llei de protecció de dades"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 18,
+      "question": "La fórmula de salutació, per ordre de formalitat creixent és",
+      "answers": {
+        "a": "Benvolgut/da; distingit/a; senyor/a",
+        "b": "Senyor/a; benvolgut/da senyor/a; distingit/da senyor/a",
+        "c": "Benvolgut/a senyor/a; senyor/a, distingit/da senyor/a",
+        "d": "Distingit/a senyor/a; senyor/a, benvolgut/da"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Quina redacció és la més adient?",
+      "answers": {
+        "a": "Us comunico que...",
+        "b": "Per al vostre coneixement i als efectes escaients, us comunico que...",
+        "c": "Per al vostre coneixement i als efectes oportuns, us comunico que...",
+        "d": "Per a general coneixement, us comunico que..."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 20,
+      "question": "El document que expedeix l’Administració, en el qual un funcionari o persona autoritzada legalment fa\nconstar oficialment alguna circumstància és:",
+      "answers": {
+        "a": "Un decret",
+        "b": "Una carta.",
+        "c": "Un certificat",
+        "d": "Un ofici."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 21,
+      "question": "El procés de redacció d’un document, ha de tenir en compte,",
+      "answers": {
+        "a": "L’estructuració de les idees.",
+        "b": "La fixació de tractaments",
+        "c": "L’establiment de l’estil",
+        "d": "Totes són correctes. prova eliminatòria (mínim 5 punts; màxim 10) - Model 1 3"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 22,
+      "question": "A un document administratiu,",
+      "answers": {
+        "a": "Els mesos s’escriuen en minúscules i no es posa punt final",
+        "b": "El dia i l’any s’escriuen en xifres",
+        "c": "Totes són certes.",
+        "d": "El lloc i la data s’escriuen separats per una coma."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Quina és la millor redacció?",
+      "answers": {
+        "a": "L’Alcalde ha presentat el Pla d’Actuació Municipal al Ple...",
+        "b": "El si plenari, a qui se li ha presentat el Pla d’Actuació Municipal per part de l’Alcalde...",
+        "c": "El Pla d’Actuació Municipal ha estat presentat per l’Alcalde en el si plenari...",
+        "d": "El Ple, al qual l’Alcalde ha presentat el Pla d’Actuació Municipal..."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 24,
+      "question": "Hem de posar peu de recurs quan elaborem",
+      "answers": {
+        "a": "Un certificat",
+        "b": "Un decret",
+        "c": "Una diligència",
+        "d": "Una notificació"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Per deixar palès que la Sra. Joana Ramírez ha comparegut a les nostres dependències i s’emporta còpies\nde documentació d’un expedient, cal fer",
+      "answers": {
+        "a": "Una notificació",
+        "b": "Un decret",
+        "c": "Una diligència",
+        "d": "Un certificat"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Quina redacció és la més adient?",
+      "answers": {
+        "a": "El servei de recursos humans us comunica que ha procedit a realitzar la convocatòria del procés de selecció del qual formeu part com a membre vocal del tribunal.",
+        "b": "Us comunico que el servei de recursos humans ha procedit a realitzar la convocatòria del procés selectiu del qual sou membre del tribunal",
+        "c": "Us fem arribar aquesta comunicació ates que el servei de recursos humans ha procedit a realitzar la convocatòria del procés de selecció del qual teniu un nomenament per ser membre vocal del tribunal.",
+        "d": "Us comunico que el servei de recursos humans ha convocat el procés selectiu del qual sou membre del tribunal"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 27,
+      "question": "A diferència del llenguatge estàndard, el llenguatge administratiu,",
+      "answers": {
+        "a": "És un llenguatge estàndard, amb estructures obertes i elaborat a partir dels reglaments de cada Administració Local.",
+        "b": "És un llenguatge estàndard, amb estructures molt fixades i elaborat a partir del procediment administratiu.",
+        "c": "És un llenguatge d’especialitat, amb estructures molt fixades i elaborat a partir del procediment administratiu.",
+        "d": "És un llenguatge d’especialitat, amb estructures obertes i elaborat a partir dels reglaments de cada Administració Local."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Quina redacció és la més correcta?",
+      "answers": {
+        "a": "No obstant això, podeu enviar-nos una sol·licitud ...",
+        "b": "Per tal de què pugueu resoldre consultes, podeu enviar-nos una sol·licitud...",
+        "c": "A nivell de consultes, podeu enviar-nos una sol·licitud...",
+        "d": "Nogensmenys, podeu enviar-nos una sol·licitud..."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Per convocar una reunió,",
+      "answers": {
+        "a": "És recomanable fer constar la durada prevista.",
+        "b": "És recomanable introduir l’ordre del dia",
+        "c": "Totes són certes.",
+        "d": "És recomanable introduir una salutació i la data de la reunió prova eliminatòria (mínim 5 punts; màxim 10) - Model 1 4"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 30,
+      "question": "El llenguatge administratiu es caracteritza",
+      "answers": {
+        "a": "Per que ha de ser formal degut al seu caràcter oficial i representatiu",
+        "b": "Per que ha de ser propi i únic per a cada Administració Pública",
+        "c": "Per que ha de ser el més informal possible.",
+        "d": "a i c són certes."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Per que consti a l’expedient que aquest ha superat el tràmit d’audiència, cal fer",
+      "answers": {
+        "a": "Una notificació",
+        "b": "Un certificat",
+        "c": "Una diligència",
+        "d": "Un decret"
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 32,
+      "question": "En el llenguatge administratiu, les paraules jòquers i crosses",
+      "answers": {
+        "a": "Empobreixen el document i dificulten la comprensió del text",
+        "b": "Enriqueixen el document i relacionen els diferents paràgrafs",
+        "c": "Fan referència a paraules que tenen diferent significat segons portin accent o no.",
+        "d": "Són connectors específics com per exemple ‘en primer lloc’, ‘d’una banda’ o altres."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Quina redacció és la més correcta?",
+      "answers": {
+        "a": "La subvenció va ser atorgada per l’Ajuntament.",
+        "b": "L’Ajuntament ha atorgat una subvenció",
+        "c": "La subvenció, la qual ha estat atorgada per l’Ajuntament (...)",
+        "d": "Es va atorgar la subvenció per part de l’Ajuntament."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Com a norma general, una carta",
+      "answers": {
+        "a": "La signarà sempre l’Alcalde",
+        "b": "La signarà la persona referent de l’assumpte de què es tracti, amb independència del seu càrrec.",
+        "c": "La signarà sempre un/a regidor/a",
+        "d": "La signarà indistintament el cap de servei o el cap de secció"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Per comunicar l’ordre del dia d’una Junta de Govern Local, redactarem",
+      "answers": {
+        "a": "Una convocatòria",
+        "b": "Un decret",
+        "c": "Una diligència",
+        "d": "Un acord de la Junta de Govern Local"
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 36,
+      "question": "Per separar un paràgraf,",
+      "answers": {
+        "a": "Utilitzaré un punt i coma.",
+        "b": "Utilitzaré un punt i apart.",
+        "c": "Utilitzaré un punt i seguit.",
+        "d": "Utilitzaré un punt i final."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 37,
+      "question": "Quina és l’expressió correcta?",
+      "answers": {
+        "a": "Apenes",
+        "b": "A pesar de",
+        "c": "A penes",
+        "d": "a i c són certes"
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 38,
+      "question": "Quina de les següents frases és incorrecta?",
+      "answers": {
+        "a": "Ordre per la qual es regula la propietat...",
+        "b": "Totes són correctes.",
+        "c": "Ordre que regula la propietat...",
+        "d": "Ordre regulant la propietat... prova eliminatòria (mínim 5 punts; màxim 10) - Model 1 5"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 39,
+      "question": "Per a la correcta redacció d’un document administratiu, es recomana que les frases no excedeixin,",
+      "answers": {
+        "a": "Les 10 paraules",
+        "b": "Les 20 paraules",
+        "c": "Les 5 paraules.",
+        "d": "Les 30 paraules"
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 40,
+      "question": "Quina redacció és la més correcta?",
+      "answers": {
+        "a": "L’anàlisi de la primera part del document, que consisteix a relacionar els fonaments, es recull en aquest dossier.",
+        "b": "a i b són igual de correctes.",
+        "c": "En aquest dossier es recull l’anàlisi de la primera part del document. L’anàlisi de la primera part consisteix a relacionar els fonaments.",
+        "d": "L’anàlisi de la primera part del document, que es recull en aquest dossier, que consisteix a relacionar els fonaments (...) prova eliminatòria (mínim 5 punts; màxim 10) - Model 1 6"
+      },
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    }
+  ]
+}

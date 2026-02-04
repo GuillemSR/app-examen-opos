@@ -1,0 +1,592 @@
+{
+  "metadata": {
+    "model": 1
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Quina potestat exerceixen les Corts Generals?",
+      "answers": {
+        "a": "Executiva.",
+        "b": "Legislativa i executiva.",
+        "c": "Reglamentària.",
+        "d": "Legislativa ."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Quin procediment s’estableix per a la investidura del President del Govern?",
+      "answers": {
+        "a": "El President del Govern és nomenat directament pel Rei sense necessitat de votació.",
+        "b": "El candidat a President del Govern ha de rebre la confiança del Congrés dels Diputats, primer per majoria absoluta i, si no es dóna, per majoria simple en una segona votació.",
+        "c": "El President del Govern és escollit per una majoria de dos terços del Senat.",
+        "d": "El President del Govern és elegit per sufragi universal directe dels ciutadans /anes espanyols /oles."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Com s’anomena l’òrgan fiscalitzador extern dels comptes, de la gestió econòmica i del control d’eficiència de la Generalitat, dels ens locals i de la resta del sector públic de Catalunya?",
+      "answers": {
+        "a": "Consell de Garanties Estatutàries.",
+        "b": "Síndic de Greuges.",
+        "c": "Sindi catura de Comptes.",
+        "d": "President/a de la Generalitat."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Quin dels següents drets, que està reconegut a l’Estatut d’Autonomia de Catalunya, NO està expressament reconegut a la Constitució espanyola?",
+      "answers": {
+        "a": "Dret a viure amb dignitat el procés de mort.",
+        "b": "Dret de reunió pacífica i sense armes.",
+        "c": "Dret a la producció i creació científica.",
+        "d": "Dret d’associació."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Com es denomina a l’entitat local determinada per l’agrupació de municipis amb personalitat jurídica pròpia i plena capacitat per l’acompliment dels seus fins?",
+      "answers": {
+        "a": "Com arca.",
+        "b": "Regió.",
+        "c": "Província.",
+        "d": "Mancomunitat de municipis."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 6,
+      "question": "Quina competència NO és pròpia de la Diputació?",
+      "answers": {
+        "a": "L'assistència jurídica als ajuntaments .",
+        "b": "L'assistència econòmica als ajuntaments .",
+        "c": "Garantir als municipis de menys de 1.000 habitants la prestació dels serveis de secretaria i intervenció .",
+        "d": "Assumir els deutes dels ajuntaments quan aquests no puguin fer front als mateixos."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 7,
+      "question": "D’acord amb la Carta Municipal de Barcelona, l'alcalde o alcaldessa és el president o presidenta de la Corporació Municipal i té entre d’altres les atribucions següents:",
+      "answers": {
+        "a": "Aprovar el Pla general d'Acció Municipal, del Programa d'Actuació, el Pla d'Inversions i el Programa Financer.",
+        "b": "Organitzar l'administració municipal executiva i nomenar els tinents i les tinentes d'alcalde i els re gidors i regidores de districte.",
+        "c": "Aprovar i modificar el Reglament orgànic que regula la composició i l'elecció dels Consells de Districte.",
+        "d": "Aprovar el Codi ètic d'actuació de tot el personal al servei del municipi."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Quina és una entitat pública empresaria l de l’Ajuntament de Barcelona?",
+      "answers": {
+        "a": "Barcelona de Serveis Municipals BSM.",
+        "b": "Barcelona d’Infraestructures Municipals -BIMSA.",
+        "c": "Institut Municipal d’Hisenda de Barcelona.",
+        "d": "Institut Municipal de Parcs i Jardins de Barcelona."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 9,
+      "question": "Com s’inicien els procediments d’ofici, d ’acord amb la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques?",
+      "answers": {
+        "a": "Per iniciativa de l’interessat/ada.",
+        "b": "Per iniciativa de les persones afectades en el procediment.",
+        "c": "A petició raonada de l’interessat/ada.",
+        "d": "Per aco rd de l’òrgan competent."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 10,
+      "question": "En quin termini s’ha de requerir a la persona interessada que repari la falta o adjunti els documents preceptius, si la sol·licitud d’iniciació no reuneix els requisits exigits per la legislació específica aplicable?",
+      "answers": {
+        "a": "7 dies.",
+        "b": "10 dies.",
+        "c": "15 dies.",
+        "d": "20 dies."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 11,
+      "question": "D’acord amb l’article 39.1 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, des de quan es presumeixen vàlids i produeixen efectes els actes de les administracions públiques s ubjectes al dret administratiu?",
+      "answers": {
+        "a": "Des de la data de la petició de la persona interessada a l’Administració Pública.",
+        "b": "Des de la data de l’entrada de la petició de la persona interessada en el registre electrònic de l’Administració Pública.",
+        "c": "Des de la data en q uè es dictin, llevat que aquests disposin una altra cosa.",
+        "d": "Des del dia següent a la data en què es dictin."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Quin recurs poden interposar les persones interessades contra les resolucions i els actes de tràmit, si aquests últims decideixen directament o indi rectament el fons de l’afer, determinen la impossibilitat de continuar el procediment, produeixen indefensió o perjudici irreparable a drets i interessos legítims?",
+      "answers": {
+        "a": "El recurs extraordinari d’alçada.",
+        "b": "El recurs d’alçada i potestatiu de reposició.",
+        "c": "El recurs d e extraordinari de reposició.",
+        "d": "El recurs extraordinari de revisió."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 13,
+      "question": "Què és l’impost sobre béns immobles (IBI)?",
+      "answers": {
+        "a": "És un tribut directe que grava el valor dels béns immobles.",
+        "b": "És un tribut indirecte que grava el valor dels béns immobles.",
+        "c": "És una contribució es pecial que grava el valor dels béns immobles.",
+        "d": "No és un tribut."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Quina afirmació és CORRECTA en relació a l'impost sobre els vehicles de tracció mecànica (IVTM)?",
+      "answers": {
+        "a": "És d’exigència potestativa per als a juntaments.",
+        "b": "Es preveu a la normativa com a una contribuc ió especial.",
+        "c": "És d’exigència obligatòria per als a juntaments.",
+        "d": "És un impost de tipus ecològic."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 15,
+      "question": "Per la celebració dels matrimonis en forma civil , l’Ajuntament pot:",
+      "answers": {
+        "a": "Establir un impost.",
+        "b": "Establir una contribució especial.",
+        "c": "Establir una taxa.",
+        "d": "Establir un preu p úblic."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 16,
+      "question": "D’acord amb la Llei 38/2003, de 17 de novembre, general de subvencions, quines subvencions poden concedir -se de forma directa, entre d’altres?",
+      "answers": {
+        "a": "Les que constin previstes nominativament en els pressupostos de les entitats locals.",
+        "b": "Les que hagin esta t rebutjades en convocatòries obertes anteriors, per manca de pressupost.",
+        "c": "Les de concurrència competitiva.",
+        "d": "Les garantides mitjançant dipòsit, fiança o aval."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 17,
+      "question": "L’art icle 69 de la Llei 39/2015 del procediment administratiu comú de les administracions públiqu es, preveu en relació a la declaració responsable que:",
+      "answers": {
+        "a": "Les administracions podran requerir en qualsevol moment que s'aporti la documentació que acrediti el compliment dels requisits establerts en la normativa vigent per obtenir el reconeixement d'un dret o facultat o per al seu exercici i la persona interessada haurà aportar -la.",
+        "b": "Les administracions hauran de requerir periòdicament que s'aporti la documentació que acrediti el manteniment dels requisits establerts en la normativa vigent per obtenir el recon eixement d'un dret o facultat o per al seu exercici i la persona interessada haurà aportar -la.",
+        "c": "Les administracions hauran de requerir periòdicament que s'aporti una nova declaració que acrediti el manteniment dels requisits establerts en la normativa vigen t per obtenir el reconeixement d'un dret o facultat o per al seu exercici.",
+        "d": "Les administracions podran requerir en qualsevol moment que s'aporti una nova declaració que acrediti el manteniment dels requisits establerts en la normativa vigent per obtenir el reconeixement d'un dret o facultat o per al seu exercici."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 18,
+      "question": "Per assolir l’objectiu general del III Pla d’igualtat d’oportunitats entre dones i homes de l’Ajuntament de Barcelona es plantegen 7 àmbits d’intervenció. Indiqueu quin és un d’aquests àmbits:",
+      "answers": {
+        "a": "Registre retributiu i auditoria retributiva.",
+        "b": "Representativitat de gènere.",
+        "c": "Comunicació, llenguatge i imatge corporativa.",
+        "d": "Promoció professional."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 19,
+      "question": "Segons l’article 3 de la Llei 4/2023, de 28 de febrer, per a la igualtat real i efectiva de les persones t rans i per a la garantia dels drets de les persones LGTBI, com es defineix l’expressió de gènere?",
+      "answers": {
+        "a": "L’atracció física, sexual o efectiva cap a una persona.",
+        "b": "La vivència interna o individual del sexe tal i com cada persona la sent i auto defineix, aquesta po t o no correspondre amb el sexe assignat en néixer.",
+        "c": "La condició d’aquelles persones nascudes amb unes característiques biològiques, anatòmiques o fisiològiques, una anatomia sexual, uns òrgans reproductius o un patró cromosòmic que no es corresponen amb l es nocions socialment establertes dels cossos masculins o femenins.",
+        "d": "La manifestació que cada persona fa de la seva identitat sexual."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 20,
+      "question": "D’acord amb la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals, e l tractament de les dades personals d’un /a menor d’edat únicament es pot fonamentar en el seu consentiment:",
+      "answers": {
+        "a": "Quan sigui major de catorze anys.",
+        "b": "Quan sigui major de dotze anys.",
+        "c": "Quan sigui major de tretze anys.",
+        "d": "Quan sigui major de disset anys."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 21,
+      "question": "D’acord amb la Llei de orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals, les dades han de ser:",
+      "answers": {
+        "a": "Confidencials, però no necessàriament exactes.",
+        "b": "Exactes i, si fos necessari, actualitzades.",
+        "c": "Actualitzades, però poden ser i nexactes si han estat obtingudes d’un registre privat per la persona responsable del tractament de dades.",
+        "d": "En tot cas comprovades per les autoritats administratives."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 22,
+      "question": "Quin dels següents drets individuals exercits col·lectivament és reconegut per l’articl e 15 del text refós de l’Estatut bàsic de l’e mpleat públic (TREBEP)?",
+      "answers": {
+        "a": "Dret a la llibertat d’expressió dels empleats/ades públics/públiques .",
+        "b": "Dret a la negociació col·lectiva dels empleats/ades públics/públiques .",
+        "c": "Dret a la formació contínua dels empleats/ade s públics/públiques .",
+        "d": "Dret a la protecció de dades personals dels empleats/ades públics/públiques ."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 23,
+      "question": "Qui NO queda subjecte al règim disciplinari del TREBEP i a les normes que les l leis de funció p ública dictin en desenvolupament d'aquest Estatut?",
+      "answers": {
+        "a": "El per sonal laboral.",
+        "b": "El personal funcionari.",
+        "c": "El personal eventual.",
+        "d": "El personal becari."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 24,
+      "question": "En què consisteix la modalitat de carrera horitzontal en la carrera professional del personal funcionari de carrera?",
+      "answers": {
+        "a": "La progressió de grau, categoria, esglaó o altres conc eptes anàlegs, sense necessitat de canviar de lloc de treball i de conformitat amb el que estableix la normativa.",
+        "b": "L’ascens en l’estructura de llocs de treball pels procediments de provisió establerts legalment.",
+        "c": "L’ascens des d’un cos o escala d’un subgrup , o grup de classificació professional en el supòsit que aquest no tingui subgrup, a un altre de superior.",
+        "d": "L’accés a cossos o escales del mateix subgrup professional."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 25,
+      "question": "Quin dels següents supòsits habilita per al nomenament de personal funcionari interí, d’acord amb l’article 10 del TREBEP?",
+      "answers": {
+        "a": "L’execució de programes de caràcter temporal, que no podran tenir una durada superior a 2 anys, ampliabl es fins a 12 mesos més per les l leis de funció p ública que es dictin en desenvolupament del TREBEP.",
+        "b": "La substituc ió transitòria de les persones titulars , durant un termini màxim de 6 mesos.",
+        "c": "L’excés o acumulació de tasques per termini màxim de 9 mesos, dintre d’un període de 18 mesos.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 26,
+      "question": "Amb quin dels certificats electrònics següents pot fe r gestions la ciutadania amb l’administració de l’Ajuntament de Barcelona i assegurar la integritat i la confidencialitat de les dades que es trameten?",
+      "answers": {
+        "a": "dniCAT.",
+        "b": "idCAT.",
+        "c": "representatsCAT.",
+        "d": "apodeCAT."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 27,
+      "question": "Què garanteix l’Arxiu electrònic de l’Ajuntament de Barcelona segons el Model de gestió de documents electrònics de l’Ajuntament de Barcelona?",
+      "answers": {
+        "a": "La conversió automàtica dels documents electrònics en audiovisuals.",
+        "b": "La perdurabilitat dels documents mitjançant còpies en paper.",
+        "c": "L’accés públic i il·limitat a tots els documents i expedients electrònics, sense restriccions.",
+        "d": "La integritat, autenticitat, confidencialitat, qualitat, protecció, accés, disponibilitat i conservació de la documentació."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 28,
+      "question": "Què és “Barcelona a la butxaca”?",
+      "answers": {
+        "a": "Una aplicació mòb il de l’Ajuntament de Barcelona que ofereix els principals serveis municipals per a la ciutadania en un sol punt d’accés.",
+        "b": "Una oficina d’atenció presencial especialitzada en informació cultural de la ciutat.",
+        "c": "Un terminal d’autoservei electrònic, ubicat en di ferents equipaments, per gestionar de forma presencial els tràmits municipals més sol·licitats.",
+        "d": "Un canal de comunicació telefònic de l’Ajuntament de Barcelona amb la ciutadania ."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 29,
+      "question": "Quina afirmació é s CORRECTA en relació al telèfon 010?",
+      "answers": {
+        "a": "És un servei d’info rmació municipal que atén telefònicament tots els dies de l’any, durant les 24 hores.",
+        "b": "És un servei d’informació municipal i general sobre equipaments, agenda d’actes i serveis dins de l’àmbit metropolità.",
+        "c": "No permet fer suggeriments i reclamacions, ni pres entar queixes.",
+        "d": "Té un cost per les persones usuàries, si es truca des de l’Àrea Metropolitana."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 30,
+      "question": "Quin dels següents canals és un canal de comunicació en línia, de l’Ajuntament de Barcelona amb la ciutadania?",
+      "answers": {
+        "a": "Els quioscos d’autoservei.",
+        "b": "El telèfon 010.",
+        "c": "L’Oficina Virtual de tràmits.",
+        "d": "Les Oficines d’Atenció al Ciutadà."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 31,
+      "question": "Quina afirmació és CORRECTA en relació a la Festa tradicional de Sant Medir?",
+      "answers": {
+        "a": "Es celebra amb motiu de la diada en honor de Sant Antoni Abat, patró dels animals domèstics.",
+        "b": "És coneguda principal ment per les tones de caramels i llaminadures que es llancen al públic des de cavalls, carrosses i camions.",
+        "c": "Es celebra el 3 de maig.",
+        "d": "Es celebra amb motiu de la festivitat del Sant Patró dels herbolaris i dels apicultors."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 32,
+      "question": "Quina biblioteca de la ciutat de Ba rcelona, va guanyar l’any 2023 el Premi “Millor Biblioteca Pública del 2023”, que entrega la Federació Internacional d’Associacions e Institucions Bibliotecàries (IFLA) i Systematic?",
+      "answers": {
+        "a": "Biblioteca Nacional de Catalunya.",
+        "b": "Biblioteca Rius i Taulet.",
+        "c": "Biblioteca S antiago Rusiñol.",
+        "d": "Biblioteca Gabriel García Márquez."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 33,
+      "question": "Quin va ser el primer edifici construït a Barcelona amb la finalitat de ser un museu públic?",
+      "answers": {
+        "a": "El Museu Martorell.",
+        "b": "El Museu del perfum.",
+        "c": "El Museu d’Arts Aplicades.",
+        "d": "El Museu de la Música."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 34,
+      "question": "Què entenem c om a «equip de treball» segons la Llei 31/1995, de 8 de novembre, de prevenció de riscos laborals?",
+      "answers": {
+        "a": "El conjunt de les característiques constructives del centre de treball on es desenvolupa la tasca a realitzar pels treballadors/ores.",
+        "b": "El vestuari especial que fa servir el/la treballador/a, si fa falta, per a desenvolupar una tasca determinada .",
+        "c": "El conjunt de treballadors/ores als quals s’encarrega fer una determinada tasca en una unitat productiva de l’empresa.",
+        "d": "Qualsevol màquina, aparell, instrument o insta l·lació utilitzada en el treball."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 35,
+      "question": "Quina és una competència del delegat/ada de prevenció?",
+      "answers": {
+        "a": "Representar a l’empresa davant de la Inspecció de Treball.",
+        "b": "Fer l’avaluació de riscos del centre de treball.",
+        "c": "Exercir una tasca de vigilància i control sobre el comp liment de la normativa de prevenció de riscos laborals.",
+        "d": "Sancionar als treballadors/ores que no respectin les normes en prevenció de riscos laborals."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 36,
+      "question": "En Word, què passa si se selecciona un text i es prem la tecla \"Supr\"?",
+      "answers": {
+        "a": "Es desa el document.",
+        "b": "S’obre un d ocument nou.",
+        "c": "S’elimina el text seleccionat.",
+        "d": "Es tanca el programa."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 37,
+      "question": "En Word, què és una \"Capçalera\"?",
+      "answers": {
+        "a": "Una nota al peu de la pàgina.",
+        "b": "El text que apareix al principi de cada pàgina al marge superior.",
+        "c": "Un gràfic inserit en el document.",
+        "d": "Una referència creuada."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 38,
+      "question": "En Word, què passa quan s’aplica l’opció \"Justifica\" al text?",
+      "answers": {
+        "a": "El text s’alinea a l’esquerra.",
+        "b": "El text s’alinea a la dreta.",
+        "c": "El text es distribueix uniformement entre els marges.",
+        "d": "El text se centra."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 39,
+      "question": "En Excel, quin format de cel·la multiplica el valor de la cel·la per 100 i mostra el resultat amb un símbol percentual?",
+      "answers": {
+        "a": "Moneda.",
+        "b": "Nombre.",
+        "c": "Científic.",
+        "d": "Percentatge."
+      },
+      "correct": [
+        "d"
+      ]
+    },
+    {
+      "number": 40,
+      "question": "En Excel, què és una cel·la?",
+      "answers": {
+        "a": "Un arxiu d’Excel.",
+        "b": "Un full de càlcul.",
+        "c": "La intersecció d’una fila i una columna.",
+        "d": "Un tipus de gràfic."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 41,
+      "question": "Quina afirmació és CERTA respecte al Consell General del Poder Judicial (CGPJ) segons la Constitució Espanyola?",
+      "answers": {
+        "a": "El CGPJ està format exclusivament per jutges/jutgesses i magistrats/ades .",
+        "b": "El CGPJ està integrat pel President /a del Tribunal Suprem i vint membres més.",
+        "c": "El CGPJ és presidit pel President /a del Govern d’Espanya.",
+        "d": "El CGPJ és un òrgan subordinat al Ministeri de Justícia."
+      },
+      "correct": [
+        "b"
+      ]
+    },
+    {
+      "number": 42,
+      "question": "Quina és la funció principal de la Carta Municipal de Barcelona?",
+      "answers": {
+        "a": "Regular el trànsit i el transport públic a la ciutat.",
+        "b": "Establir les tarifes d’impostos municipals.",
+        "c": "Definir el règim jurídic i les competències de l’Ajuntament de Barcelona.",
+        "d": "Coordinar els esdeveniments culturals i esportius a la ciutat."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 43,
+      "question": "Quin dels següents drets individuals està inclòs en l’article 14 del text refós de l’Estatut bàsic de l’e mpleat públic (TREBEP)?",
+      "answers": {
+        "a": "Dret a la inamobilitat en la condició de funcionari /ària de carrera.",
+        "b": "Dret a la jubilació anticipada.",
+        "c": "Dret a la reducció de jornada sense justificació.",
+        "d": "Dret a la propietat intel·lectual."
+      },
+      "correct": [
+        "a"
+      ]
+    },
+    {
+      "number": 44,
+      "question": "En el cont ext de la gestió de documents electrònics de l’a dministració de l’Ajuntament de Barcelona, quina és la resposta INCORRECTA quant a les metadades?",
+      "answers": {
+        "a": "Són dades que defineixen i descriuen altres dades.",
+        "b": "Són un conjunt d’informació no estructurada.",
+        "c": "Faciliten la identificació, la descripció i la recuperació de documents electrònics.",
+        "d": "Les metadades de context informen sobre els agents implicats en la creació, recepció i transmissió del document o sobre la data d’elaboració o recepció del document."
+      },
+      "correct": [
+        "c"
+      ]
+    },
+    {
+      "number": 45,
+      "question": "Quina és l’ extensió predeterminada per a un arxiu d’Excel?",
+      "answers": {
+        "a": ".txt",
+        "b": ".xlsx",
+        "c": ".docx",
+        "d": ".pptx"
+      },
+      "correct": [
+        "b"
+      ]
+    }
+  ]
+}
