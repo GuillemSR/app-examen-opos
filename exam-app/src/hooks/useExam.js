@@ -33,6 +33,7 @@ export const useExam = () => {
     setUserAnswers({});
     setResults(null);
     setExamState('active');
+    // eslint-disable-next-line react-hooks/purity
     setExamStartTime(Date.now());
     
     // Guardar en localStorage

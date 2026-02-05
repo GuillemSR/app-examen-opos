@@ -12,8 +12,7 @@ const StatsCards = ({ stats, formatDuration }) => {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
         </svg>
       ),
-      bgColor: 'bg-blue-500',
-      textColor: 'text-blue-600'
+      textColor: 'text-primary'
     },
     {
       title: 'Media Puntuación',
@@ -25,8 +24,7 @@ const StatsCards = ({ stats, formatDuration }) => {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z" />
         </svg>
       ),
-      bgColor: 'bg-purple-500',
-      textColor: 'text-purple-600'
+      textColor: 'text-primary'
     },
     {
       title: 'Mejor Resultado',
@@ -37,8 +35,7 @@ const StatsCards = ({ stats, formatDuration }) => {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
         </svg>
       ),
-      bgColor: 'bg-green-500',
-      textColor: 'text-green-600'
+      textColor: 'text-success'
     },
     {
       title: 'Tiempo Medio',
@@ -49,8 +46,7 @@ const StatsCards = ({ stats, formatDuration }) => {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
         </svg>
       ),
-      bgColor: 'bg-orange-500',
-      textColor: 'text-orange-600'
+      textColor: 'text-muted-foreground'
     }
   ];
 
@@ -59,21 +55,20 @@ const StatsCards = ({ stats, formatDuration }) => {
       {cards.map((card, index) => (
         <div
           key={index}
-          className="bg-white dark:bg-slate-800 rounded-xl shadow-lg p-6 relative overflow-hidden"
+          className="card p-6"
         >
-          <div className={`absolute top-0 right-0 w-20 h-20 ${card.bgColor} opacity-10 rounded-bl-full`} />
-          <div className={`${card.textColor} dark:text-slate-300 mb-2`}>
+          <div className={`${card.textColor} mb-2`}>
             {card.icon}
           </div>
-          <div className="text-2xl font-bold text-gray-900 dark:text-white">
+          <div className="text-2xl font-bold text-foreground">
             {card.value}
           </div>
           {card.subtitle && (
-            <div className="text-sm text-gray-500 dark:text-slate-400">
+            <div className="text-sm text-muted-foreground">
               {card.subtitle}
             </div>
           )}
-          <div className="text-sm text-gray-600 dark:text-slate-400 mt-1">
+          <div className="text-sm text-muted-foreground mt-1">
             {card.title}
           </div>
         </div>

@@ -4,15 +4,15 @@ const PauseScreen = ({ onResume, onAbandon, formatTime, timeRemaining }) => {
   const [showAbandonConfirm, setShowAbandonConfirm] = useState(false);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-500 to-red-600 dark:from-slate-950 dark:via-slate-900 dark:to-slate-800 flex items-center justify-center p-4">
-      <div className="bg-white dark:bg-slate-900 rounded-xl shadow-2xl max-w-md w-full p-8">
+    <div className="min-h-screen bg-background flex items-center justify-center p-4">
+      <div className="card max-w-md w-full p-8">
         {!showAbandonConfirm ? (
           <>
             {/* Pantalla de pausa */}
             <div className="text-center">
               <div className="mb-6">
                 <svg 
-                  className="w-20 h-20 mx-auto text-orange-600" 
+                  className="w-20 h-20 mx-auto text-warning" 
                   fill="none" 
                   stroke="currentColor" 
                   viewBox="0 0 24 24"
@@ -26,15 +26,15 @@ const PauseScreen = ({ onResume, onAbandon, formatTime, timeRemaining }) => {
                 </svg>
               </div>
               
-              <h2 className="text-3xl font-bold text-gray-900 dark:text-slate-100 mb-4">Examen Pausado</h2>
-              <p className="text-gray-600 dark:text-slate-300 mb-6">
-                Tu examen está en pausa. Tiempo restante: <span className="font-bold text-orange-600">{formatTime(timeRemaining)}</span>
+              <h2 className="text-3xl font-bold text-foreground mb-4">Examen Pausado</h2>
+              <p className="text-muted-foreground mb-6">
+                Tu examen está en pausa. Tiempo restante: <span className="font-bold text-warning">{formatTime(timeRemaining)}</span>
               </p>
 
               <div className="space-y-3">
                 <button
                   onClick={onResume}
-                  className="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-4 rounded-lg transition-colors flex items-center justify-center gap-2 dark:bg-emerald-600 dark:hover:bg-emerald-500"
+                  className="btn-success w-full py-4"
                 >
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
@@ -45,7 +45,7 @@ const PauseScreen = ({ onResume, onAbandon, formatTime, timeRemaining }) => {
 
                 <button
                   onClick={() => setShowAbandonConfirm(true)}
-                  className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-lg transition-colors flex items-center justify-center gap-2"
+                  className="btn-danger w-full py-4"
                 >
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -61,7 +61,7 @@ const PauseScreen = ({ onResume, onAbandon, formatTime, timeRemaining }) => {
             <div className="text-center">
               <div className="mb-6">
                 <svg 
-                  className="w-20 h-20 mx-auto text-red-600" 
+                  className="w-20 h-20 mx-auto text-danger" 
                   fill="none" 
                   stroke="currentColor" 
                   viewBox="0 0 24 24"
@@ -75,22 +75,22 @@ const PauseScreen = ({ onResume, onAbandon, formatTime, timeRemaining }) => {
                 </svg>
               </div>
               
-              <h2 className="text-2xl font-bold text-gray-900 dark:text-slate-100 mb-4">¿Abandonar el examen?</h2>
-              <p className="text-gray-600 dark:text-slate-300 mb-6">
+              <h2 className="text-2xl font-bold text-foreground mb-4">¿Abandonar el examen?</h2>
+              <p className="text-muted-foreground mb-6">
                 Si abandonas el examen, perderás todo el progreso y no podrás recuperarlo.
               </p>
 
               <div className="space-y-3">
                 <button
                   onClick={() => setShowAbandonConfirm(false)}
-                  className="w-full bg-gray-600 hover:bg-gray-700 text-white font-bold py-4 rounded-lg transition-colors dark:bg-slate-700 dark:hover:bg-slate-600"
+                  className="btn-secondary w-full py-4"
                 >
                   Cancelar
                 </button>
 
                 <button
                   onClick={onAbandon}
-                  className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 rounded-lg transition-colors"
+                  className="btn-danger w-full py-4"
                 >
                   Sí, Abandonar Examen
                 </button>

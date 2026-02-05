@@ -30,26 +30,26 @@ const QuestionCard = ({ question, questionNumber, totalQuestions, userAnswer, on
   const isMultipleChoice = correctAnswers.length > 1;
 
   return (
-    <div className="bg-white dark:bg-slate-900 rounded-lg shadow-lg p-4 md:p-6">
+    <div className="card p-4 md:p-6">
       {/* Header con número de pregunta y modelo */}
-      <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 mb-4 pb-4 border-b dark:border-slate-700">
+      <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 mb-4 pb-4 border-b border-border">
         <div className="flex items-center gap-2">
-          <span className="bg-blue-600 text-white px-3 py-1 rounded-full text-sm font-semibold">
+          <span className="badge-primary px-3 py-1 rounded-full text-sm font-semibold">
             Pregunta {questionNumber} de {totalQuestions}
           </span>
           {isMultipleChoice && (
-            <span className="bg-purple-600 text-white px-3 py-1 rounded-full text-xs font-semibold">
+            <span className="badge-neutral px-3 py-1 rounded-full text-xs font-semibold">
               Múltiple
             </span>
           )}
         </div>
-        <span className="text-xs md:text-sm text-gray-500 dark:text-slate-400 italic">
+        <span className="text-xs md:text-sm text-muted-foreground italic">
           Modelo: {question.modelId} | {formatExamFilename(question.examModel)}
         </span>
       </div>
 
       {/* Pregunta */}
-      <h2 className="text-lg md:text-xl font-semibold text-gray-800 dark:text-slate-100 mb-6">
+      <h2 className="text-lg md:text-xl font-semibold text-foreground mb-6">
         {question.question}
       </h2>
 
@@ -61,15 +61,15 @@ const QuestionCard = ({ question, questionNumber, totalQuestions, userAnswer, on
             onClick={() => handleAnswerToggle(key)}
             className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 ${
               isAnswerSelected(key)
-                ? 'border-blue-600 bg-blue-50 dark:bg-blue-900/30'
-                : 'border-gray-300 hover:border-blue-400 hover:bg-gray-50 dark:border-slate-700 dark:hover:border-blue-400 dark:hover:bg-slate-800/60'
+                ? 'border-primary bg-primary/5 dark:bg-primary/10'
+                : 'border-border hover:border-primary/50 hover:bg-surface-hover'
             }`}
           >
             <div className="flex items-start gap-3">
               <div className={`flex-shrink-0 w-6 h-6 rounded-full border-2 flex items-center justify-center mt-0.5 ${
                 isAnswerSelected(key)
-                  ? 'border-blue-600 bg-blue-600'
-                  : 'border-gray-400 dark:border-slate-500'
+                  ? 'border-primary bg-primary'
+                  : 'border-muted-foreground/40'
               }`}>
                 {isAnswerSelected(key) && (
                   <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -78,8 +78,8 @@ const QuestionCard = ({ question, questionNumber, totalQuestions, userAnswer, on
                 )}
               </div>
               <div className="flex-1">
-                <span className="font-semibold text-blue-600 dark:text-blue-300 mr-2">{key})</span>
-                <span className="text-gray-800 dark:text-slate-200">{value}</span>
+                <span className="font-semibold text-primary mr-2">{key})</span>
+                <span className="text-foreground">{value}</span>
               </div>
             </div>
           </button>
